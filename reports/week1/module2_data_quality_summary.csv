@@ -1,0 +1,9 @@
+file,rows,columns,missing,duplicates
+transactions.csv,60577,10,17144,122
+customers.csv,3022,8,63,22
+products.csv,528,8,19,8
+stores.csv,18,8,2,0
+returns.csv,3415,6,10,15
+inventory.csv,25920,6,120,0
+store_targets_legacy.csv,432,4,0,0
+campaigns.json,40,9,0,0

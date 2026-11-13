@@ -1,0 +1,21 @@
+MODULE 5: NUMPY AND PANDAS ANALYSIS
+
+Total Revenue: 1276086203.22
+Mean Revenue: 21108.03
+Median Revenue: 5974.32
+Standard Deviation: 48646.20
+
+Highest revenue group: Region=nan, Channel=Online, Revenue=341748309.87
+Number of IQR outliers: 8212
+IQR lower bound: -14105.31
+IQR upper bound: 30166.39
+
+Correlation matrix:
+            Quantity  Discount  LineAmount   Revenue
+Quantity    1.000000 -0.002689    0.219896  0.219896
+Discount   -0.002689  1.000000   -0.052561 -0.052561
+LineAmount  0.219896 -0.052561    1.000000  1.000000
+Revenue     0.219896 -0.052561    1.000000  1.000000
+
+Interpretation guidance:
+Correlation values near +1 indicate a strong positive linear relationship; values near -1 indicate a strong negative relationship. Values near 0 indicate a weak linear relationship. Correlation does not prove causation.

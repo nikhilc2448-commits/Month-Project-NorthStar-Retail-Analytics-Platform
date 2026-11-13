@@ -1,0 +1,26 @@
+Name,Revenue,Dimension
+NorthStar Hyderabad Flagship,77561625.36,Store
+NorthStar Mumbai Standard,76888994.29,Store
+NorthStar Mysuru Standard,74603044.37,Store
+NorthStar Kochi Express,40259551.88,Store
+NorthStar Coimbatore Express,39762813.77,Store
+Store,678097897.97,Channel
+Online,341748309.87,Channel
+App,251228260.75,Channel
+STORE,3018592.84,Channel
+ONLINE,1418458.6400000001,Channel
+Electronics,881705237.15,Category
+Home,130211111.98,Category
+Apparel,74365282.84,Category
+Footwear,68971853.97,Category
+Accessories,48029720.09,Category
+South,340091300.28,Region
+West,77578748.19,Region
+North,74961101.99,Region
+East,74440386.39,Region
+west,39522580.01,Region
+2024-10,87888141.15,Month
+2024-11,86300866.09,Month
+2023-10,78480917.78,Month
+2023-11,69547922.23,Month
+2024-12,64864709.09,Month

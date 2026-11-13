@@ -1,0 +1,7 @@
+MODULE 8: COHORT AND RETENTION ANALYSIS
+
+Unique customers: 3000
+Repeat customers: 3000
+Repeat customer rate: 100.00%
+
+Cohort month is based on each customer's first recorded purchase. Retention is the percentage of customers from each cohort who made purchases in subsequent months.

@@ -1,0 +1,9 @@
+Forecast months: Jan 2025, Feb 2025, Mar 2025
+Forecast sales:
+2025-01-01    5.296764e+07
+2025-02-01    4.217783e+07
+2025-03-01    5.551226e+07
+Freq: MS
+Training MAPE: 6.83%
+Initial confidence assessment: Higher
+Note: This confidence assessment is based on training error, not a formal prediction interval.

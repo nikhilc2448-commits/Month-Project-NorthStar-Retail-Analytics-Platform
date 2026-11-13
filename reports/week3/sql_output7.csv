@@ -1,0 +1,19 @@
+StoreID,StoreName,TotalRevenue,RevenueRank
+ST110,"NorthStar Kochi Express",38287087.080000006,1
+ST115,"NorthStar Hyderabad Flagship",37433256.31000006,2
+ST112,"NorthStar Coimbatore Express",37364511.88,3
+ST109,"NorthStar Kolkata Standard",37077252.99000007,4
+ST105,"NorthStar Hyderabad Flagship",36015638.489999935,5
+ST116,"NorthStar Mumbai Standard",35995396.55000008,6
+ST117,"NorthStar Pune Standard",35900958.02000002,7
+ST101,"NorthStar Chennai Flagship",35752937.110000014,8
+ST113,"NorthStar Bengaluru Flagship",35688404.19000011,9
+ST106,"NorthStar Mumbai Standard",35374031.210000046,10
+ST114,"NorthStar Mysuru Standard",35055652.66999999,11
+ST107,"NorthStar Pune Flagship",34976292.61,12
+ST103,"NorthStar Bengaluru Express",34590181.51000005,13
+ST104,"NorthStar Mysuru Standard",34547792.92000005,14
+ST118,"NorthStar Delhi Standard",34231372.05000009,15
+ST111,"NorthStar Chennai Standard",34114889.290000066,16
+ST102,"NorthStar Coimbatore Standard",33612883.22000005,17
+ST108,"NorthStar Delhi Express",33242804.650000047,18

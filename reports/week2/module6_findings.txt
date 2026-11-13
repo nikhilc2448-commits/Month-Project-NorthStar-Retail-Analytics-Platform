@@ -1,0 +1,11 @@
+MODULE 6: EXPLORATORY DATA ANALYSIS
+
+Total Revenue: 1276086203.22
+
+Top Store: NorthStar Hyderabad Flagship (Revenue: 77561625.36)
+Top Channel: Store (Revenue: 678097897.97)
+Top Category: Electronics (Revenue: 881705237.15)
+Top Region: South (Revenue: 340091300.28)
+Best Sales Month: 2024-10 (Revenue: 87888141.15)
+
+These findings identify the highest-revenue groups. They describe revenue contribution and do not establish the causes of sales performance.

@@ -1,0 +1,3 @@
+Total return records: 3400
+Total refunds: 67091658.09
+Average refund: 19732.84

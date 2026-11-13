@@ -1,0 +1,29 @@
+file,action,details
+transactions.csv,Remove duplicates,122 duplicate rows removed
+transactions.csv,Standardize text,Removed leading/trailing spaces
+transactions.csv,Filled text missing values with Unknown,Column: CustomerID
+transactions.csv,Filled numeric missing values with median,Column: Discount
+transactions.csv,Filled numeric missing values with median,Column: LineAmount
+transactions.csv,Completed,Rows: 60577 → 60455
+customers.csv,Remove duplicates,22 duplicate rows removed
+customers.csv,Standardize text,Removed leading/trailing spaces
+customers.csv,Filled text missing values with Unknown,Column: AgeBand
+customers.csv,Filled text missing values with Unknown,Column: LoyaltyTier
+customers.csv,Completed,Rows: 3022 → 3000
+products.csv,Remove duplicates,8 duplicate rows removed
+products.csv,Standardize text,Removed leading/trailing spaces
+products.csv,Filled text missing values with Unknown,Column: Brand
+products.csv,Filled numeric missing values with median,Column: UnitCost
+products.csv,Completed,Rows: 528 → 520
+stores.csv,Standardize text,Removed leading/trailing spaces
+stores.csv,Filled numeric missing values with median,Column: SqFt
+stores.csv,Completed,Rows: 18 → 18
+returns.csv,Remove duplicates,15 duplicate rows removed
+returns.csv,Standardize text,Removed leading/trailing spaces
+returns.csv,Filled numeric missing values with median,Column: RefundAmount
+returns.csv,Completed,Rows: 3415 → 3400
+inventory.csv,Standardize text,Removed leading/trailing spaces
+inventory.csv,Filled numeric missing values with median,Column: OnHandUnits
+inventory.csv,Completed,Rows: 25920 → 25920
+store_targets_legacy.csv,Standardize text,Removed leading/trailing spaces
+store_targets_legacy.csv,Completed,Rows: 432 → 432

@@ -1,0 +1,1001 @@
+TransactionID,OrderDate,CustomerID,StoreID,ProductID,Quantity,Discount,LineAmount,Channel,PaymentMode,StoreName,City,State,Format,Region,sales_target_inr,footfall_target
+TX248871,2024-10-06,Unknown,ST109,P3318,1,0.1,1204.42,Store,UPI,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,3186204.0,14337.0
+TX201004,2023-01-16,CU11334,ST103,P3061,1,0.15,6081.8,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6142408.0,20794.0
+TX200944,2023-01-15,CU10823,ONLINE,P3425,3,0.0,283535.76,Online,Net Banking,,,,,,,
+TX247545,2024-09-25,Unknown,ST112,P3252,2,0.0,6816.02,Store,Cash,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5576375.0,7851.0
+TX256954,2024-11-30,CU11115,ONLINE,P3050,1,0.0,13550.3,App,Wallet,,,,,,,
+TX250838,2024-10-20,CU12547,ST106,P3189,1,0.1,18554.0,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5644613.0,10189.0
+TX209147,2023-05-23,Unknown,ST112,P3397,1,0.0,1169.29,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5087063.0,7459.0
+TX225431,2023-12-02,CU11683,ST112,P3364,1,0.0,11989.22,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,3019067.0,18637.0
+TX200907,2023-01-15,CU12312,ST112,P3175,1,0.1,16520.54,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1975854.0,3634.0
+TX241696,2024-07-06,CU11136,ONLINE,P3487,2,0.1,35362.8,Online,UPI,,,,,,,
+TX250372,,Unknown,ST112,P3336,1,0.15,19898.86,Store,Wallet,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,,
+TX248074,2024-10-01,CU12413,ONLINE,P3248,1,0.1,4062.64,App,Card,,,,,,,
+TX216718,2023-09-24,CU12521,ONLINE,P3270,1,0.1,6145.79,Online,Card,,,,,,,
+TX244823,,Unknown,ONLINE,P3061,2,0.0,14310.12,App,Wallet,,,,,,,
+TX200867,2023-01-14,CU10995,ST115,P3511,1,0.0,4889.88,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6046617.0,21227.0
+TX215808,2023-09-11,Unknown,ONLINE,P3187,1,0.05,10630.83,Online,UPI,,,,,,,
+TX219538,2023-10-19,Unknown,ST101,P3221,2,0.15,21588.3,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5346878.0,14315.0
+TX218116,2023-10-07,CU12721,ST109,P3489,1,0.3,780.74,Store,Net Banking,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,2562655.0,17151.0
+TX250548,2024-10-18,CU11057,ONLINE,P3321,1,0.05,4336.77,App,Card,,,,,,,
+TX259789,2024-12-26,Unknown,ST109,P3077,2,0.0,13507.12,Store,Cash,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5009738.0,8955.0
+TX216587,2023-09-22,CU12774,ONLINE,P3425,1,0.05,89786.32,App,Net Banking,,,,,,,
+TX223177,2023-11-14,CU10001,ST106,P3114,1,0.05,558.38,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5539503.0,9182.0
+TX206943,2023-04-19,CU12592,ST107,P3402,2,0.0,18276.5,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1409036.0,23764.0
+TX257562,2024-12-05,CU11724,ST107,P3250,1,0.0,178.2,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2750380.0,14542.0
+TX211437,2023-07-02,CU10567,ST106,P3229,2,0.0,4322.2,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5560394.0,14148.0
+TX216393,2023-09-19,CU12083,ST114,P3504,2,0.05,3353.18,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1417659.0,3179.0
+TX259268,2024-12-21,CU12930,ONLINE,P3334,2,0.2,6403.5,Online,Wallet,,,,,,,
+TX256665,2024-11-28,CU10825,ONLINE,P3008,1,0.0,116467.67,Online,Card,,,,,,,
+TX209026,,CU12375,ONLINE,P3374,1,0.1,109847.65,App,Card,,,,,,,
+TX204022,2023-03-05,Unknown,ST105,P3369,1,0.05,5161.91,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2170534.0,2310.0
+TX239695,2024-06-05,CU10452,ST105,P3172,1,0.4,3399.11,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,5505342.0,4068.0
+TX248253,2024-10-03,Unknown,ST115,P3383,2,0.15,1464.07,STORE,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,5902825.0,15124.0
+TX208676,2023-05-15,Unknown,ST109,P3247,1,0.0,38979.01,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,1182909.0,9634.0
+TX245763,2024-09-02,CU12901,ST102,P3191,1,0.0,9229.08,Store,Cash,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,1191102.0,18080.0
+TX218371,2023-10-09,CU11371,ONLINE,P3492,1,0.2,2882.97,App,Net Banking,,,,,,,
+TX224944,2023-11-27,CU11869,ONLINE,P3029,2,0.0,14382.7,App,Net Banking,,,,,,,
+TX228194,2023-12-30,CU10740,ST113,P3027,2,0.15,30049.98,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2495442.0,2490.0
+TX230401,2024-01-28,CU10784,ONLINE,P3453,1,0.0,4455.01,Online,UPI,,,,,,,
+TX249829,2024-10-13,CU11278,ONLINE,P3392,1,0.0,9913.91,App,UPI,,,,,,,
+TX242348,2024-07-16,CU12096,ST109,P3251,1,0.0,879.49,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,4219280.0,24304.0
+TX218466,2023-10-10,CU10238,ST113,P3189,1,0.25,15461.67,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,6187357.0,14764.0
+TX212249,2023-07-16,CU11224,ONLINE,P3410,1,0.0,109238.45,Online,Card,,,,,,,
+TX200730,2023-01-12,Unknown,ST118,P3409,1,0.05,447.41,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5198899.0,13394.0
+TX241550,2024-07-04,CU10404,ONLINE,P3452,1,0.0,273.23,Online,Card,,,,,,,
+TX216541,2023-09-21,Unknown,ST115,P3180,1,0.0,48254.23,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3708864.0,13906.0
+TX253839,,Unknown,ST101,P3306,1,0.0,8055.29,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,,
+TX244764,2024-08-21,CU11052,ST118,P3058,1,0.0,4347.52,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5975187.0,3855.0
+TX254670,2024-11-14,CU12926,ST118,P3277,1,0.15,209.38,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5097076.0,19949.0
+TX240677,2024-06-21,CU12122,ST103,P3260,1,0.15,66522.92,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,883594.0,15006.0
+TX255168,2024-11-17,CU12480,ST113,P3237,1,0.2,4397.18,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,4496734.0,4245.0
+TX226726,2023-12-15,Unknown,ST104,P3239,1,0.05,5581.56,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1607248.0,5167.0
+TX251614,2024-10-25,CU11178,ONLINE,P3205,1,0.15,1515.29,App,UPI,,,,,,,
+TX208154,2023-05-07,CU12827,ONLINE,P3288,1,0.0,9305.32,Online,Card,,,,,,,
+TX243630,2024-08-06,CU12055,ONLINE,P3336,1,0.0,23410.42,App,UPI,,,,,,,
+TX211643,2023-07-06,CU10922,ONLINE,P3388,2,0.0,29328.34,Online,UPI,,,,,,,
+TX228219,2023-12-30,CU11279,ST101,P3233,1,0.0,2007.56,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3363343.0,23128.0
+TX207683,2023-04-30,CU12103,ST108,P3471,1,0.1,8620.36,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,1542460.0,9116.0
+TX234616,,CU10461,ONLINE,P3228,1,0.05,5559.21,App,UPI,,,,,,,
+TX218154,2023-10-08,CU12902,ST102,P3500,1,0.15,8160.13,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,1258664.0,18793.0
+TX239191,2024-05-28,Unknown,ST104,P3371,3,0.0,55254.57,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1377542.0,12694.0
+TX237143,2024-04-29,Unknown,ST102,P3106,1,0.0,2309.14,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3079624.0,20316.0
+TX234823,2024-03-29,CU11128,ST102,P3176,1,0.0,6522.03,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,4136184.0,3510.0
+TX232509,2024-02-26,CU12600,ST101,P3312,3,0.05,22276.0,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,6298646.0,7463.0
+TX225428,2023-12-02,CU10427,ST103,P3262,3,0.0,21911.7,Store,Wallet,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,3612618.0,15355.0
+TX229357,2024-01-13,CU12863,ST115,P3392,1,0.1,8922.52,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4260604.0,19523.0
+TX203616,2023-02-26,CU10829,ONLINE,P3411,1,0.0,1445.71,App,UPI,,,,,,,
+TX203919,,CU12421,ST115,P3140,1,0.05,2039.05,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX218968,2023-10-14,CU11069,ONLINE,P3160,1,0.3,510.61,App,Cash,,,,,,,
+TX229585,2024-01-16,CU12565,ONLINE,P3026,1,0.0,4379.68,App,UPI,,,,,,,
+TX257254,2024-12-02,CU11856,ONLINE,P3292,1,0.0,1993.1,Online,Net Banking,,,,,,,
+TX231764,2024-02-15,Unknown,ONLINE,P3398,1,0.0,7097.6,App,UPI,,,,,,,
+TX243052,2024-07-28,Unknown,ONLINE,P3136,1,0.15,5123.03,Online,Card,,,,,,,
+TX246736,2024-09-14,CU10350,ST104,P3417,1,0.0,1056.49,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1463639.0,23786.0
+TX241429,2024-07-01,CU10814,ONLINE,P3030,1,0.3,6315.71,Online,UPI,,,,,,,
+TX212372,2023-07-19,CU10736,ONLINE,P3234,3,0.1,4586.79,App,Cash,,,,,,,
+TX254340,2024-11-12,CU10342,ST107,P3407,1,0.0,62815.08,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,4772512.0,11068.0
+TX215610,2023-09-08,CU10600,ONLINE,P3436,1,0.05,3583.11,App,UPI,,,,,,,
+TX260164,2024-12-29,CU12699,ST110,P3323,1,0.1,1952.73,Store,Wallet,NorthStar Kochi Express,Kochi,Kerala,Express,South,4348175.0,24896.0
+TX259109,2024-12-19,Unknown,ST113,P3005,2,0.2,22625.78,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,4671975.0,2021.0
+TX213070,2023-07-31,Unknown,ST108,P3314,1,0.0,13381.79,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,5320521.0,11053.0
+TX260114,2024-12-29,Unknown,ST107,P3155,2,0.0,6564.98,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2750380.0,14542.0
+TX246329,2024-09-09,CU10565,ST112,P3334,2,0.0,8004.38,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5576375.0,7851.0
+TX209925,2023-06-04,CU12113,ST103,P3129,1,0.1,4011.08,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,4389200.0,23944.0
+TX256278,2024-11-25,CU12031,ONLINE,P3407,2,0.0,125630.16,App,Card,,,,,,,
+TX229022,2024-01-08,CU10615,ST112,P3357,1,0.0,124209.82,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,2397127.0,9259.0
+TX224141,2023-11-21,Unknown,ONLINE,P3236,1,0.0,2754.57,Online,UPI,,,,,,,
+TX258749,2024-12-15,CU11434,ST118,P3264,1,0.15,136341.64,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,3582699.0,17743.0
+TX204087,2023-03-05,CU10934,ST116,P3488,2,0.2,1326.0,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,2112817.0,24934.0
+TX204690,2023-03-15,CU12252,ONLINE,P3409,1,0.0,470.96,App,Cash,,,,,,,
+TX226758,2023-12-15,CU12885,ONLINE,P3251,3,0.0,2638.47,Online,UPI,,,,,,,
+TX225544,2023-12-03,Unknown,ST105,P3293,1,0.0,2603.88,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4561206.0,3251.0
+TX259075,2024-12-19,Unknown,ONLINE,P3372,1,0.3,1425.1,App,UPI,,,,,,,
+TX260189,2024-12-29,CU11347,ONLINE,P3341,2,0.15,1891.98,Online,Net Banking,,,,,,,
+TX208908,2023-05-19,Unknown,ST109,P3224,1,0.1,4477.07,Store,card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,1182909.0,9634.0
+TX252831,2024-11-02,CU11894,ONLINE,P3213,1,0.0,9327.77,Online,Wallet,,,,,,,
+TX259943,2024-12-27,CU12669,ST107,P3301,4,0.0,3062.0,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2750380.0,14542.0
+TX224573,2023-11-25,CU10367,ST116,P3179,1,0.3,7116.85,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX257147,2024-12-01,Unknown,ONLINE,P3097,1,0.0,65049.16,Online,Card,,,,,,,
+TX204465,2023-03-11,CU12137,ST110,P3516,1,0.0,10491.92,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,4659903.0,14045.0
+TX229570,2024-01-16,Unknown,ST111,P3075,3,0.0,238258.17,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,1886621.0,15898.0
+TX205195,2023-03-22,CU12513,ONLINE,P3255,1,0.2,5305.84,App,UPI,,,,,,,
+TX210714,2023-06-18,CU11429,ONLINE,P3073,2,0.1,10443.74,App,Cash,,,,,,,
+TX229097,2024-01-10,Unknown,ONLINE,P3014,1,0.15,1116.05,Online,UPI,,,,,,,
+TX211240,2023-06-29,Unknown,ST113,P3340,1,0.0,1015.08,Store,Cash,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,5337783.0,17474.0
+TX234937,2024-03-31,CU10112,ST103,P3132,3,0.0,388226.07,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,3593340.0,15623.0
+TX255881,2024-11-23,CU10434,ST101,P3212,1,0.2,29300.92,Store,Wallet,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5137278.0,8282.0
+TX240296,2024-06-15,CU10412,ST116,P3110,1,0.2,3171.05,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,5884224.0,19872.0
+TX230885,,CU12208,ONLINE,P3200,1,0.1,187494.04,Online,Card,,,,,,,
+TX231021,2024-02-05,Unknown,ST103,P3411,1,0.0,1445.71,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,4231096.0,17061.0
+TX237111,,Unknown,ONLINE,P3444,1,0.05,4718.93,Online,Cash,,,,,,,
+TX221021,,Unknown,ST105,P3158,2,0.3,111586.79,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX251824,2024-10-26,CU11992,ONLINE,P3125,1,0.0,1780.42,Online,Net Banking,,,,,,,
+TX213657,2023-08-10,CU12717,ONLINE,P3517,1,0.0,7408.42,Online,Cash,,,,,,,
+TX247956,2024-09-30,CU11981,ST116,P3410,1,0.3,76466.91,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,2358475.0,8230.0
+TX210902,2023-06-22,CU12196,ST111,P3136,2,0.2,9643.34,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2377244.0,7937.0
+TX211193,2023-06-28,Unknown,ONLINE,P3520,1,0.2,515.36,App,UPI,,,,,,,
+TX208076,2023-05-06,CU12388,ONLINE,P3512,1,0.0,3002.12,Online,UPI,,,,,,,
+TX254165,2024-11-10,Unknown,ONLINE,P3244,1,0.35,1728.12,Online,UPI,,,,,,,
+TX230190,2024-01-25,CU10958,ONLINE,P3387,1,0.15,863.39,Online,Card,,,,,,,
+TX220883,2023-10-28,Unknown,ST104,P3035,1,0.15,66417.51,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,6142909.0,9306.0
+TX221045,2023-10-29,CU12834,ONLINE,P3206,2,0.05,110201.77,Online,Net Banking,,,,,,,
+TX243559,,CU11902,ONLINE,P3135,1,0.2,2248.46,App,UPI,,,,,,,
+TX230645,2024-01-31,CU12435,ST101,P3199,1,0.3,4251.84,Store,Wallet,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,4069995.0,17538.0
+TX238168,2024-05-13,CU12436,ST104,P3144,1,0.1,13333.42,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1377542.0,12694.0
+TX252540,2024-10-31,CU11616,ST104,P3266,2,0.15,17428.91,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,4607624.0,15693.0
+TX222778,2023-11-11,CU12738,ONLINE,P3166,1,0.3,1842.91,Online,Card,,,,,,,
+TX252621,2024-11-01,CU11154,ONLINE,P3230,1,0.15,5971.45,Online,Net Banking,,,,,,,
+TX212728,2023-07-24,CU12066,ST104,P3456,1,0.0,6812.56,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2461772.0,19796.0
+TX251802,2024-10-26,CU12604,ONLINE,P3252,1,0.0,3408.01,Online,Wallet,,,,,,,
+TX219115,2023-10-15,Unknown,ST103,P3316,1,0.0,1746.61,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,5822644.0,11000.0
+TX200477,2023-01-07,Unknown,ST101,P3366,2,0.0,19641.32,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3207149.0,17182.0
+TX233662,2024-03-14,Unknown,ONLINE,P3336,1,0.05,22239.9,App,UPI,,,,,,,
+TX207990,2023-05-05,CU12209,ST114,P3518,1,0.3,4336.97,Store,upi,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,2155224.0,2514.0
+TX239003,,Unknown,ST112,P3419,1,0.0,6889.62,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,,
+TX256175,2024-11-24,CU11401,ONLINE,P3348,2,0.1,4296.35,App,Card,,,,,,,
+TX202400,2023-02-08,CU10874,ST112,P3437,2,0.05,2240.48,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1740222.0,5534.0
+TX203733,2023-02-28,CU10282,ONLINE,P3208,4,0.05,37363.61,App,Card,,,,,,,
+TX237164,2024-04-29,CU11259,ST104,P3245,1,0.0,8067.86,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3061319.0,6182.0
+TX211509,2023-07-03,CU11542,ONLINE,P3477,1,0.1,1319.99,App,UPI,,,,,,,
+TX219019,2023-10-15,Unknown,ONLINE,P3501,2,0.25,529.83,Online,UPI,,,,,,,
+TX253286,2024-11-05,CU10055,ST118,P3416,2,0.15,5475.9,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5097076.0,19949.0
+TX238847,,CU11815,ONLINE,P3453,3,0.05,12696.78,Online,Net Banking,,,,,,,
+TX215178,,CU10681,ONLINE,P3476,2,0.0,3415.8,Online,UPI,,,,,,,
+TX226360,2023-12-11,Unknown,ONLINE,P3473,2,0.0,15149.02,Online,Net Banking,,,,,,,
+TX228423,2024-01-01,CU12228,ST116,P3242,4,0.0,4848.64,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,5925885.0,23516.0
+TX209562,2023-05-29,Unknown,ST115,P3079,1,0.2,3415.66,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6040090.0,24700.0
+TX212725,2023-07-24,Unknown,ONLINE,P3196,2,0.15,13069.74,App,Wallet,,,,,,,
+TX255996,2024-11-23,CU12062,ONLINE,P3298,2,0.2,3042.3,Online,UPI,,,,,,,
+TX213472,2023-08-07,CU10696,ONLINE,P3509,1,0.1,13180.52,App,Card,,,,,,,
+TX210566,2023-06-16,CU11793,ONLINE,P3217,1,0.0,19404.98,App,UPI,,,,,,,
+TX239609,2024-06-03,CU10301,ONLINE,P3110,2,0.3,5549.33,Online,Wallet,,,,,,,
+TX215248,2023-09-02,Unknown,ST103,P3431,1,0.2,2582.22,Store,Net Banking,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,5007148.0,5834.0
+TX237897,2024-05-10,CU10882,ST116,P3340,1,0.0,1015.08,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,2824710.0,22745.0
+TX249327,2024-10-10,CU10197,ST107,P3215,4,0.15,9494.47,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1005257.0,14039.0
+TX244275,2024-08-15,CU10448,ONLINE,P3090,1,0.0,5368.76,Online,Net Banking,,,,,,,
+TX226970,2023-12-17,CU11134,ONLINE,P3380,1,0.0,294.01,Online,Net Banking,,,,,,,
+TX259642,2024-12-24,CU11865,ONLINE,P3035,3,0.0,234414.75,App,Net Banking,,,,,,,
+TX209150,2023-05-23,CU11202,ONLINE,P3157,1,0.0,76358.46,App,UPI,,,,,,,
+TX236583,2024-04-21,CU10766,ST114,P3414,3,0.0,6148.08,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4730901.0,3145.0
+TX249167,2024-10-08,CU12597,ST105,P3065,1,0.1,1584.47,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2790843.0,17975.0
+TX207647,2023-04-29,CU10324,ONLINE,P3359,4,0.0,40626.16,App,Card,,,,,,,
+TX229727,2024-01-19,Unknown,ONLINE,P3135,1,0.05,2670.04,Online,UPI,,,,,,,
+TX231790,,Unknown,ST118,P3296,1,0.0,1162.28,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,,
+TX237701,2024-05-07,Unknown,ONLINE,P3372,1,0.1,1832.27,Online,Card,,,,,,,
+TX232723,2024-03-01,CU10065,ST117,P3109,1,0.0,4209.2,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,3165546.0,11792.0
+TX247950,2024-09-30,Unknown,ST104,P3081,1,0.0,579.75,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1463639.0,23786.0
+TX214294,2023-08-19,CU11543,ST107,P3184,2,0.05,4651.05,Store,Wallet,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1177256.0,20306.0
+TX259589,2024-12-24,CU11180,ST101,P3022,1,0.0,4750.06,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3982098.0,23070.0
+TX202886,,CU12693,ONLINE,P3288,1,0.05,8840.05,App,Card,,,,,,,
+TX256976,,CU12829,ST114,P3307,2,0.45,11012.77,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,,
+TX239408,2024-05-31,CU12011,ST104,P3476,1,0.1,1537.11,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1377542.0,12694.0
+TX240019,2024-06-10,CU12435,ST108,P3372,1,0.2,1628.69,Store,Wallet,NorthStar Delhi Express,Delhi,Delhi,Express,South,5388615.0,2484.0
+TX236503,2024-04-20,CU11315,ST117,P3009,1,0.05,6802.5,Store,Cash,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5495953.0,11122.0
+TX238101,2024-05-12,CU10190,ST107,P3019,1,0.0,1755.48,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,3059797.0,23632.0
+TX251519,2024-10-25,CU12086,ST114,P3040,1,0.1,6855.93,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,3922274.0,18257.0
+TX224540,2023-11-25,CU12548,ST114,P3265,1,0.15,2572.88,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4099869.0,24893.0
+TX218184,2023-10-08,Unknown,ONLINE,P3017,1,0.15,67967.05,Online,Net Banking,,,,,,,
+TX209313,,CU10871,ST104,P3440,1,0.0,8377.89,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,,
+TX215208,2023-09-02,CU10916,ONLINE,P3130,1,0.05,3576.82,Online,UPI,,,,,,,
+TX258272,2024-12-11,CU10282,ST118,P3067,2,0.15,21069.95,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,3582699.0,17743.0
+TX233974,,Unknown,ST101,P3410,2,0.0,218476.9,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,,
+TX234990,2024-03-31,CU11461,ST103,P3150,1,0.0,14797.07,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,3593340.0,15623.0
+TX209142,2023-05-23,CU10968,ONLINE,P3492,1,0.0,3603.71,App,Card,,,,,,,
+TX256331,2024-11-25,CU11043,ONLINE,P3472,1,0.0,20408.92,App,Card,,,,,,,
+TX225479,2023-12-02,CU11770,ONLINE,P3070,3,0.0,9354.93,Online,UPI,,,,,,,
+TX235763,2024-04-11,CU10852,ST117,P3069,3,0.05,24568.8,Store,Net Banking,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5495953.0,11122.0
+TX238555,2024-05-19,Unknown,ST114,P3285,1,0.2,1562.94,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4208362.0,16625.0
+TX241249,2024-06-29,Unknown,ONLINE,P3163,2,0.2,21277.49,Online,UPI,,,,,,,
+TX231701,2024-02-14,CU11715,ONLINE,P3051,1,0.0,8677.42,Online,Card,,,,,,,
+TX249280,2024-10-09,Unknown,ST110,P3416,1,0.05,3060.06,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,3404511.0,16834.0
+TX215680,2023-09-09,CU11052,ONLINE,P3250,3,0.0,534.6,App,Cash,,,,,,,
+TX214351,2023-08-20,CU10947,ST101,P3008,1,0.0,116467.67,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5421709.0,11174.0
+TX245898,2024-09-04,CU12861,ST103,P3418,1,0.0,1849.23,Store,Wallet,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6360500.0,6826.0
+TX238062,2024-05-12,Unknown,ONLINE,P3227,1,0.15,4029.82,Online,Cash,,,,,,,
+TX239000,2024-05-26,CU12627,ST113,P3379,1,0.0,147437.26,Store,Net Banking,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,1038503.0,20992.0
+TX223627,2023-11-18,CU10796,ST105,P3377,1,0.15,100017.02,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6187309.0,8566.0
+TX236674,2024-04-23,CU11965,ST112,P3170,1,0.3,3881.53,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,4968168.0,9635.0
+TX236606,2024-04-22,Unknown,ONLINE,P3457,2,0.15,15369.77,Online,Card,,,,,,,
+TX256037,2024-11-23,CU12727,ONLINE,P3080,1,0.0,13096.43,Online,Card,,,,,,,
+TX236513,2024-04-20,CU10156,ONLINE,P3049,2,0.2,265477.95,Online,Net Banking,,,,,,,
+TX201642,2023-01-27,CU12244,ST115,P3497,3,0.1,2479.92,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6046617.0,21227.0
+TX233789,2024-03-16,Unknown,ST116,P3279,3,0.05,17765.87,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4102836.0,16650.0
+TX213460,2023-08-06,CU11196,ONLINE,P3307,1,0.05,9511.03,App,Card,,,,,,,
+TX250180,2024-10-15,CU12731,ST115,P3481,1,0.25,13440.34,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,5902825.0,15124.0
+TX256285,2024-11-25,CU11367,ONLINE,P3200,2,0.15,354155.41,Online,UPI,,,,,,,
+TX228151,2023-12-29,CU10222,ONLINE,P3269,3,0.2,20930.9,App,UPI,,,,,,,
+TX247345,2024-09-22,Unknown,ONLINE,P3277,2,0.0,492.66,Online,Card,,,,,,,
+TX205513,2023-03-27,CU12808,ST106,P3482,1,0.1,28450.94,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,2744386.0,2945.0
+TX225687,2023-12-04,CU10807,ST114,P3501,3,0.05,1006.68,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1617838.0,18834.0
+TX204246,2023-03-08,CU10247,ST106,P3503,1,0.15,664.9,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,2744386.0,2945.0
+TX210167,2023-06-09,Unknown,ONLINE,P3072,1,0.0,27116.8,Online,Wallet,,,,,,,
+TX202727,2023-02-13,CU11244,ONLINE,P3292,2,0.0,3986.2,Online,Net Banking,,,,,,,
+TX213749,2023-08-11,CU12303,ONLINE,P3488,1,0.0,828.75,Online,Card,,,,,,,
+TX219262,2023-10-16,CU12343,ST108,P3085,1,0.15,4094.39,Store,Net Banking,NorthStar Delhi Express,Delhi,Delhi,Express,South,3778736.0,17252.0
+TX209126,2023-05-22,CU12308,ST116,P3024,1,0.0,4559.71,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6085667.0,15305.0
+TX204949,2023-03-19,Unknown,ONLINE,P3018,1,0.1,23758.38,Online,Wallet,,,,,,,
+TX210631,2023-06-17,CU11446,ONLINE,P3224,1,0.1,4477.07,Online,Card,,,,,,,
+TX237242,2024-04-30,Unknown,ONLINE,P3437,1,0.0,1179.2,Online,Cash,,,,,,,
+TX213632,2023-08-09,Unknown,ST113,P3230,1,0.0,7025.23,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,1811367.0,11090.0
+TX241632,2024-07-05,CU10810,ONLINE,P3303,2,0.0,13863.24,Online,UPI,,,,,,,
+TX220185,2023-10-23,CU11388,ONLINE,P3199,1,0.05,5770.35,App,Net Banking,,,,,,,
+TX212929,2023-07-29,Unknown,ONLINE,P3441,1,0.1,56432.27,Online,Cash,,,,,,,
+TX243640,2024-08-06,CU12260,ST118,P3493,1,0.0,1001.85,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5975187.0,3855.0
+TX217209,2023-10-01,Unknown,ST117,P3401,2,0.0,2689.94,Store,UPI,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5918155.0,7111.0
+TX201044,2023-01-17,Unknown,ST118,P3449,1,0.0,12320.07,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5198899.0,13394.0
+TX212897,2023-07-28,Unknown,ONLINE,P3123,2,0.0,10458.52,App,Cash,,,,,,,
+TX203716,2023-02-28,CU12853,ST113,P3333,1,0.0,2675.64,Store,Net Banking,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,1824845.0,9330.0
+TX205087,2023-03-20,CU12620,ST110,P3211,1,0.05,11133.37,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,4659903.0,14045.0
+TX200055,2023-01-01,CU11339,ONLINE,P3303,1,0.0,6931.62,Online,UPI,,,,,,,
+TX221352,2023-11-01,CU12264,ST113,P3185,1,0.15,11174.01,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,4840785.0,13983.0
+TX206743,,CU10173,ONLINE,P3404,1,0.05,9017.39,App,Card,,,,,,,
+TX251929,2024-10-27,CU12890,ONLINE,P3014,2,0.35,1706.9,Online,Wallet,,,,,,,
+TX245977,2024-09-05,CU11863,ONLINE,P3247,1,0.0,38979.01,Online,Card,,,,,,,
+TX247529,2024-09-24,CU12114,ST118,P3372,1,0.1,1832.27,Store,Wallet,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,6281281.0,10473.0
+TX205564,2023-03-28,CU11088,ST103,P3285,1,0.15,1660.62,Store,Wallet,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2712198.0,24723.0
+TX201254,2023-01-21,CU10430,ONLINE,P3165,2,0.0,3747.68,Online,Net Banking,,,,,,,
+TX235103,2024-04-01,CU12836,ST111,P3126,1,0.3,72333.13,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,3258494.0,22185.0
+TX253877,2024-11-09,CU10128,ONLINE,P3127,1,0.3,823.11,App,Wallet,,,,,,,
+TX257052,2024-11-30,CU10813,ST110,P3510,1,0.1,4563.47,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3666175.0,6446.0
+TX236065,2024-04-14,CU11366,ONLINE,P3486,1,0.0,10149.37,Online,UPI,,,,,,,
+TX248330,2024-10-03,CU11623,ST116,P3352,1,0.0,2377.24,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1252507.0,24265.0
+TX204544,2023-03-12,Unknown,ONLINE,P3240,1,0.0,984.01,Online,Net Banking,,,,,,,
+TX215881,2023-09-12,CU10359,ST116,P3249,3,0.0,6553.02,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4235409.0,14586.0
+TX203804,,CU11311,ONLINE,P3264,2,0.0,320803.86,App,UPI,,,,,,,
+TX216508,2023-09-21,CU12070,ST104,P3352,1,0.3,1664.07,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3320361.0,10267.0
+TX213967,2023-08-14,CU12312,ST109,P3301,1,0.0,765.5,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5965771.0,15876.0
+TX252598,2024-11-01,CU10988,ST110,P3173,1,0.3,482.08,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,3666175.0,6446.0
+TX210850,2023-06-21,CU11813,ST101,P3407,2,0.0,125630.16,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,818682.0,21160.0
+TX224317,,CU10537,ONLINE,P3177,4,0.0,12863.08,Online,UPI,,,,,,,
+TX257096,2024-11-30,CU11403,ST116,P3300,1,0.2,8125.13,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4170935.0,6653.0
+TX241956,2024-07-10,CU11672,ST114,P3332,1,0.0,6616.67,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4847140.0,16807.0
+TX251083,2024-10-21,CU12227,ONLINE,P3341,1,0.2,890.34,Online,UPI,,,,,,,
+TX208967,2023-05-20,CU11973,ONLINE,P3266,2,0.0,20504.6,App,UPI,,,,,,,
+TX255647,2024-11-21,CU11395,ONLINE,P3409,1,0.0,470.96,Online,Net Banking,,,,,,,
+TX253882,2024-11-09,CU11035,ONLINE,P3248,1,0.15,3836.93,Online,Wallet,,,,,,,
+TX257756,2024-12-07,Unknown,ONLINE,P3408,1,0.0,45150.63,App,Card,,,,,,,
+TX228620,2024-01-03,CU10035,ST103,P3238,1,0.0,10190.77,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,5125247.0,11162.0
+TX256808,2024-11-29,CU10828,ST113,P3396,1,0.1,2459.2,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,4496734.0,4245.0
+TX228582,2024-01-03,Unknown,ST113,P3023,2,0.2,582.9,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,907120.0,16505.0
+TX228422,2024-01-01,CU12029,ONLINE,P3469,1,0.2,4779.46,App,Net Banking,,,,,,,
+TX259682,2024-12-25,CU11989,ONLINE,P3258,1,0.2,7524.58,App,UPI,,,,,,,
+TX260035,2024-12-28,Unknown,ST102,P3244,3,0.0,7975.92,Store,Wallet,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,1954838.0,12450.0
+TX207782,2023-05-02,Unknown,ONLINE,P3442,1,0.1,4770.31,Online,Card,,,,,,,
+TX200849,2023-01-14,CU12908,ST110,P3059,1,0.2,7257.38,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3348875.0,11963.0
+TX209168,2023-05-23,Unknown,ST110,P3468,1,0.05,2703.03,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,6251791.0,21385.0
+TX240454,2024-06-16,Unknown,ONLINE,P3142,2,0.15,7721.09,App,Card,,,,,,,
+TX260076,2024-12-29,CU10179,ST114,P3167,1,0.1,121937.64,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,5515764.0,13440.0
+TX260311,,Unknown,ONLINE,P3290,2,0.05,312613.61,App,Net Banking,,,,,,,
+TX212363,2023-07-19,CU12546,ONLINE,P3414,1,0.0,2049.36,App,UPI,,,,,,,
+TX243374,2024-08-03,CU10003,ST104,P3364,1,0.1,10790.3,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,4254827.0,9758.0
+TX244109,2024-08-12,CU11643,ST117,P3111,1,0.0,6195.01,Store,Cash,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5364564.0,18411.0
+TX216340,2023-09-18,CU12028,ONLINE,P3506,1,0.15,1987.27,App,UPI,,,,,,,
+TX231400,2024-02-10,CU12532,ONLINE,P3224,2,0.0,9949.04,App,Card,,,,,,,
+TX252685,2024-11-01,CU11648,ST102,P3082,2,0.2,21510.32,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,2220090.0,20946.0
+TX225430,2023-12-02,CU11233,ONLINE,P3387,1,0.05,964.96,Online,Card,,,,,,,
+TX248177,2024-10-02,CU11737,ONLINE,P3004,2,0.45,15533.46,Online,Cash,,,,,,,
+TX209686,,CU12504,ONLINE,P3504,1,0.0,1764.83,Online,Card,,,,,,,
+TX259277,,CU12861,ONLINE,P3441,1,0.2,50162.02,Online,Net Banking,,,,,,,
+TX251336,2024-10-23,CU12507,ONLINE,P3159,2,0.2,8810.05,Online,UPI,,,,,,,
+TX205360,2023-03-25,CU12612,ST115,P3112,1,0.05,732.01,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,1789166.0,19831.0
+TX257221,2024-12-01,CU10984,ST110,P3389,1,0.0,2134.84,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,4348175.0,24896.0
+TX209986,2023-06-05,CU11416,ONLINE,P3231,1,0.0,7508.18,App,Card,,,,,,,
+TX236239,2024-04-17,CU10547,ST111,P3027,1,0.0,17676.46,Store,Cash,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,3258494.0,22185.0
+TX223882,,Unknown,ST112,P3154,1,0.0,12953.74,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,,
+TX227304,2023-12-21,CU11797,ST107,P3285,1,0.05,1855.99,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,5416161.0,10967.0
+TX238883,2024-05-24,Unknown,ST114,P3072,2,0.15,46098.56,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4208362.0,16625.0
+TX213326,2023-08-05,CU11969,ST102,P3044,1,0.2,718.71,Store,Net Banking,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,6482893.0,5916.0
+TX244203,,CU11588,ST108,P3468,1,0.2,5974.32,Store,Cash,NorthStar Delhi Express,Delhi,Delhi,Express,South,,
+TX236758,2024-04-24,CU12248,ONLINE,P3499,2,0.0,7878.64,Online,Net Banking,,,,,,,
+TX228579,2024-01-03,CU11744,ONLINE,P3072,1,0.05,25760.96,Online,Card,,,,,,,
+TX203503,2023-02-25,CU12696,ST103,P3233,1,0.0,2007.56,Store,Wallet,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1787615.0,7196.0
+TX205200,2023-03-22,Unknown,ST113,P3086,1,0.0,77072.61,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2685589.0,13677.0
+TX231451,2024-02-11,CU11663,ST102,P3038,1,0.0,28752.01,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,6129771.0,10807.0
+TX249400,,CU10226,ONLINE,P3054,1,0.2,1865.43,App,UPI,,,,,,,
+TX241953,2024-07-10,Unknown,ST104,P3238,1,0.0,10190.77,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2009843.0,22385.0
+TX201423,2023-01-23,CU11919,ST111,P3477,1,0.1,1319.99,Store,Cash,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,4669034.0,9068.0
+TX258891,2024-12-17,CU12787,ST116,P3448,1,0.0,3182.11,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4147467.0,20246.0
+TX231636,2024-02-13,CU11039,ST115,P3307,3,0.15,25529.61,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2658403.0,19645.0
+TX225384,2023-12-01,CU11634,ST108,P3427,1,0.05,6107.32,Store,Net Banking,NorthStar Delhi Express,Delhi,Delhi,Express,South,5284871.0,4278.0
+TX208249,2023-05-08,Unknown,ONLINE,P3298,1,0.0,1901.44,App,Card,,,,,,,
+TX251560,2024-10-25,CU11331,ONLINE,P3011,1,0.0,819.23,Online,Card,,,,,,,
+TX205772,2023-04-01,CU11273,ST102,P3088,1,0.0,9050.77,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3839607.0,14490.0
+TX209294,2023-05-25,Unknown,ST112,P3330,1,0.05,974.17,Store,Wallet,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5087063.0,7459.0
+TX235662,2024-04-09,CU10624,ST114,P3055,3,0.2,5691.48,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4730901.0,3145.0
+TX224461,2023-11-24,CU11544,ST103,P3198,1,0.0,126090.19,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2171188.0,18811.0
+TX259522,2024-12-23,CU12336,ONLINE,P3484,1,0.15,21416.18,App,UPI,,,,,,,
+TX231551,2024-02-12,CU10026,ONLINE,P3248,1,0.15,3836.93,Online,UPI,,,,,,,
+TX247105,2024-09-20,CU12049,ONLINE,P3381,2,0.0,27452.42,Online,UPI,,,,,,,
+TX247811,2024-09-28,CU12558,ONLINE,P3043,1,0.0,1363.16,Online,Cash,,,,,,,
+TX248445,2024-10-04,Unknown,ONLINE,P3113,1,0.2,3849.93,Online,UPI,,,,,,,
+TX249463,2024-10-11,CU12531,ONLINE,P3445,1,0.2,4683.11,App,Net Banking,,,,,,,
+TX222571,,Unknown,ONLINE,P3479,1,0.0,7664.68,App,Cash,,,,,,,
+TX230962,2024-02-04,CU11648,ONLINE,P3272,1,0.0,4860.66,App,UPI,,,,,,,
+TX256556,2024-11-27,Unknown,ONLINE,P3385,2,0.4,9580.87,Online,Card,,,,,,,
+TX230752,2024-02-01,CU11168,ST101,P3084,2,0.05,3018.51,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,6298646.0,7463.0
+TX226896,2023-12-16,CU12122,ST116,P3251,2,0.05,1671.03,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1237718.0,5192.0
+TX255632,2024-11-21,CU12618,ONLINE,P3102,1,0.0,3558.32,Online,Card,,,,,,,
+TX205325,2023-03-25,CU12620,ONLINE,P3154,1,0.0,12953.74,App,Cash,,,,,,,
+TX225419,,CU10690,ST115,P3161,1,0.0,890.11,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX232861,2024-03-02,CU12133,ST101,P3401,1,0.0,1344.97,Store,Wallet,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3110915.0,8836.0
+TX232247,2024-02-23,CU12095,ST105,P3321,1,0.0,4565.02,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4245247.0,13427.0
+TX211730,2023-07-07,CU11740,ONLINE,P3008,1,0.0,116467.67,Online,UPI,,,,,,,
+TX215915,2023-09-12,CU12110,ONLINE,P3106,4,0.1,8312.9,App,upi,,,,,,,
+TX243567,2024-08-05,Unknown,ST108,P3397,1,0.0,1169.29,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,1514784.0,13634.0
+TX233095,2024-03-06,Unknown,ST117,P3047,1,0.0,2015.63,Store,Cash,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,3165546.0,11792.0
+TX227715,2023-12-24,Unknown,ONLINE,P3139,1,0.0,6372.65,Online,UPI,,,,,,,
+TX249887,2024-10-13,CU11099,ST117,P3297,2,0.3,1640.8,Store,Net Banking,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,4869506.0,20683.0
+TX224529,2023-11-25,CU11635,ONLINE,P3219,1,0.3,83809.56,App,Card,,,,,,,
+TX237797,2024-05-08,CU12385,ST107,P3355,2,0.4,3074.33,Store,upi,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,3059797.0,23632.0
+TX223434,2023-11-16,Unknown,ONLINE,P3387,2,0.15,1726.77,Online,Card,,,,,,,
+TX242636,2024-07-21,CU10538,ST117,P3349,3,0.0,16617.48,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,2569680.0,3964.0
+TX236085,2024-04-15,CU11066,ONLINE,P3497,1,0.15,780.72,Online,Net Banking,,,,,,,
+TX247873,2024-09-29,CU12357,ST109,P3417,1,0.0,1056.49,Store,UPI,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,2161241.0,18981.0
+TX235972,2024-04-13,CU10338,ONLINE,P3445,4,0.0,23415.56,App,UPI,,,,,,,
+TX246343,2024-09-09,Unknown,ONLINE,P3203,2,0.0,10875.6,Online,UPI,,,,,,,
+TX248904,2024-10-06,Unknown,ST107,P3407,1,0.1,56533.57,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1005257.0,14039.0
+TX209999,2023-06-06,CU12873,ONLINE,P3350,1,0.15,7462.59,Online,UPI,,,,,,,
+TX260372,2024-12-31,CU10059,ST118,P3328,1,0.15,2890.32,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,3582699.0,17743.0
+TX232966,2024-03-04,CU11656,ST113,P3472,1,0.15,17347.58,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2734157.0,16461.0
+TX238422,2024-05-18,Unknown,ONLINE,P3419,3,0.0,20668.86,Online,UPI,,,,,,,
+TX257775,2024-12-07,CU10593,ONLINE,P3169,1,0.1,4670.82,Online,Cash,,,,,,,
+TX232049,2024-02-20,CU10218,ONLINE,P3080,1,0.0,13096.43,Online,Cash,,,,,,,
+TX215519,2023-09-07,CU12769,ST118,P3099,1,0.0,2131.23,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,1199027.0,9902.0
+TX205429,2023-03-26,CU12600,ST109,P3386,1,0.0,6495.5,Store,UPI,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,6017142.0,16749.0
+TX249008,2024-10-07,Unknown,ST105,P3192,1,0.0,4463.21,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2790843.0,17975.0
+TX230944,2024-02-04,CU11163,ST110,P3062,1,0.0,2046.36,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3277518.0,24432.0
+TX256691,2024-11-28,Unknown,ST104,P3320,1,0.2,17235.69,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3585101.0,16797.0
+TX244686,2024-08-20,CU10998,ST103,P3487,4,0.0,78584.0,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2189349.0,16127.0
+TX230005,2024-01-22,CU11889,ST118,P3151,1,0.05,7750.17,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,857984.0,2516.0
+TX251084,2024-10-21,CU10337,ONLINE,P3218,1,0.15,5170.61,Online,Cash,,,,,,,
+TX223767,2023-11-19,CU10695,ONLINE,P3078,1,0.15,8989.05,Online,Card,,,,,,,
+TX225086,2023-11-29,CU11866,ST105,P3262,1,0.25,5477.92,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6187309.0,8566.0
+TX238457,2024-05-18,CU11844,ST115,P3044,2,0.15,1527.26,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3807991.0,8160.0
+TX237353,2024-05-02,Unknown,ST103,P3215,2,0.4,3350.99,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6249786.0,3662.0
+TX207830,2023-05-02,CU11746,ST106,P3060,1,0.0,2817.21,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5073777.0,21091.0
+TX233790,2024-03-16,CU11631,ST113,P3036,1,0.2,35391.4,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2734157.0,16461.0
+TX246115,2024-09-07,CU11639,ST103,P3487,1,0.0,19646.0,STORE,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6360500.0,6826.0
+TX247989,2024-10-01,CU11541,ONLINE,P3350,2,0.3,12291.33,Online,Net Banking,,,,,,,
+TX221258,2023-10-31,CU11269,ST115,P3066,1,0.0,5867.35,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,1732970.0,10194.0
+TX202559,2023-02-11,CU12546,ONLINE,P3416,1,0.15,2737.95,App,UPI,,,,,,,
+TX205785,2023-04-01,Unknown,ONLINE,P3454,1,0.0,452.03,App,UPI,,,,,,,
+TX239807,2024-06-07,Unknown,ONLINE,P3175,1,0.0,18356.15,App,Net Banking,,,,,,,
+TX234904,2024-03-30,CU12321,ST108,P3255,1,0.0,6632.3,Store,Cash,NorthStar Delhi Express,Delhi,Delhi,Express,South,5259534.0,23753.0
+TX235862,2024-04-12,Unknown,ST109,P3071,1,0.0,3065.66,Store,Net Banking,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,3943053.0,2385.0
+TX220500,2023-10-25,Unknown,ST116,P3105,1,0.15,2402.16,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4614177.0,4523.0
+TX200702,2023-01-11,CU11654,ST106,P3443,1,0.1,3400.39,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5203790.0,20889.0
+TX202102,2023-02-04,CU10910,ST108,P3397,1,0.0,1169.29,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,2423934.0,13917.0
+TX221378,2023-11-01,CU10435,ST101,P3474,1,0.1,24497.15,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3997947.0,13141.0
+TX228962,2024-01-08,CU12292,ONLINE,P3093,1,0.0,10005.49,App,UPI,,,,,,,
+TX242135,2024-07-13,CU10200,ST118,P3132,1,0.1,116467.82,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,4903140.0,5074.0
+TX223294,2023-11-15,CU12933,ONLINE,P3302,2,0.2,8046.77,Online,Net Banking,,,,,,,
+TX251166,,CU12728,ONLINE,P3336,3,0.15,59696.57,App,UPI,,,,,,,
+TX242756,2024-07-23,Unknown,ST105,P3452,1,0.1,245.91,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3941288.0,7802.0
+TX229916,2024-01-21,CU12571,ONLINE,P3410,1,0.1,98314.6,App,Wallet,,,,,,,
+TX256198,2024-11-24,CU12357,ONLINE,P3511,1,0.0,4889.88,Online,Card,,,,,,,
+TX253170,,CU11852,ONLINE,P3475,1,0.3,464.14,Online,Cash,,,,,,,
+TX227593,2023-12-24,CU10844,ONLINE,P3036,2,0.05,84054.57,Online,Wallet,,,,,,,
+TX259309,2024-12-21,Unknown,ONLINE,P3095,1,0.3,96211.5,App,UPI,,,,,,,
+TX221489,2023-11-02,CU12600,ST110,P3497,1,0.15,780.72,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,5436022.0,11904.0
+TX248340,2024-10-03,CU11984,ONLINE,P3019,2,0.15,2984.32,Online,UPI,,,,,,,
+TX235831,2024-04-12,CU11728,ONLINE,P3448,1,0.0,3182.11,Online,Card,,,,,,,
+TX254292,2024-11-12,CU12644,ONLINE,P3416,1,0.15,2737.95,Online,Card,,,,,,,
+TX205371,2023-03-25,CU12207,ST110,P3319,1,0.0,15752.83,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,4659903.0,14045.0
+TX219619,2023-10-19,CU12016,ONLINE,P3393,1,0.1,2731.22,App,Card,,,,,,,
+TX243972,2024-08-10,CU12377,ST108,P3187,1,0.05,10630.83,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,1514784.0,13634.0
+TX209545,,CU10425,ONLINE,P3273,3,0.3,11205.12,Online,Wallet,,,,,,,
+TX231545,,Unknown,ONLINE,P3107,2,0.0,10398.86,Online,UPI,,,,,,,
+TX218082,2023-10-07,CU12597,ONLINE,P3366,1,0.25,7365.49,Online,UPI,,,,,,,
+TX250574,2024-10-18,CU10885,ONLINE,P3394,2,0.0,20320.22,Online,Cash,,,,,,,
+TX220402,2023-10-25,CU10784,ST114,P3084,1,0.2,1270.95,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1605082.0,6680.0
+TX232365,2024-02-25,Unknown,ST110,P3130,1,0.2,3012.06,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3277518.0,24432.0
+TX228830,2024-01-06,CU12134,ST102,P3166,1,0.15,2237.82,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3098200.0,10925.0
+TX225246,2023-11-30,Unknown,ST101,P3321,2,0.0,9130.04,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3997947.0,13141.0
+TX222750,2023-11-11,CU11558,ONLINE,P3124,1,0.3,2690.22,Online,UPI,,,,,,,
+TX236648,2024-04-22,CU11901,ST103,P3500,1,0.0,9600.15,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2344426.0,13409.0
+TX215419,2023-09-05,Unknown,ST115,P3185,1,0.2,10516.71,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3708864.0,13906.0
+TX211273,2023-06-29,CU10559,ST113,P3483,1,0.0,2985.41,Store,Cash,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,5337783.0,17474.0
+TX228892,2024-01-07,Unknown,ONLINE,P3418,1,0.0,1849.23,Online,Net Banking,,,,,,,
+TX203132,2023-02-19,CU10172,ST103,P3381,2,0.2,21961.94,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1787615.0,7196.0
+TX214494,2023-08-22,CU12123,ONLINE,P3098,3,0.0,54089.4,Online,UPI,,,,,,,
+TX202339,2023-02-07,CU12061,ONLINE,P3252,1,0.0,3408.01,App,Wallet,,,,,,,
+TX238148,,CU12575,ST117,P3356,1,0.1,135.59,Store,UPI,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,,
+TX248915,2024-10-07,CU12166,ST110,P3415,2,0.15,6381.9,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,3404511.0,16834.0
+TX239705,2024-06-05,Unknown,ST114,P3484,1,0.15,21416.18,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,2078233.0,2189.0
+TX252599,2024-11-01,CU10151,ONLINE,P3060,1,0.3,1972.05,App,Card,,,,,,,
+TX240532,2024-06-18,CU10619,ONLINE,P3208,1,0.0,9832.53,App,UPI,,,,,,,
+TX229331,2024-01-13,CU10911,ST107,P3141,1,0.05,3446.64,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1132207.0,2920.0
+TX239863,2024-06-08,Unknown,ST103,P3275,1,0.15,8315.99,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,883594.0,15006.0
+TX230171,2024-01-25,Unknown,ONLINE,P3085,3,0.0,14450.79,Online,Net Banking,,,,,,,
+TX237979,2024-05-11,CU11614,ONLINE,P3074,1,0.0,6583.51,Online,Card,,,,,,,
+TX228955,2024-01-07,CU10887,ST110,P3050,1,0.05,12872.78,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,3464767.0,10393.0
+TX231632,2024-02-13,CU12349,ST110,P3224,1,0.1,4477.07,Store,Net Banking,NorthStar Kochi Express,Kochi,Kerala,Express,South,3277518.0,24432.0
+TX249809,2024-10-13,Unknown,ST102,P3099,1,0.0,2131.23,Store,Cash,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,5619356.0,24621.0
+TX216671,2023-09-23,CU10046,ST110,P3064,1,0.0,7297.02,Store,Wallet,NorthStar Kochi Express,Kochi,Kerala,Express,South,1893120.0,16809.0
+TX205778,2023-04-01,CU10289,ONLINE,P3217,1,0.2,15523.98,Online,Card,,,,,,,
+TX238606,,CU12661,ST106,P3164,1,0.05,124136.51,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,,
+TX244704,2024-08-20,Unknown,ST107,P3125,1,0.0,1780.42,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2734233.0,18354.0
+TX209952,2023-06-05,Unknown,ST113,P3003,2,0.1,5461.34,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,5337783.0,17474.0
+TX203309,2023-02-22,CU11906,ST117,P3148,1,0.1,7218.95,Store,Net Banking,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5646369.0,2600.0
+TX232952,2024-03-03,Unknown,ONLINE,P3217,1,0.1,17464.48,Online,UPI,,,,,,,
+TX246065,2024-09-06,CU11767,ST103,P3418,1,0.0,1849.23,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6360500.0,6826.0
+TX224985,2023-11-28,Unknown,ST116,P3391,1,0.0,5933.35,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX249166,2024-10-08,CU10900,ONLINE,P3428,2,0.2,773.42,App,Wallet,,,,,,,
+TX210724,2023-06-18,CU10552,ONLINE,P3405,2,0.0,13355.52,Online,Wallet,,,,,,,
+TX244134,2024-08-13,CU11907,ST106,P3416,1,0.0,3221.12,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,1966525.0,12193.0
+TX238818,2024-05-23,Unknown,ST114,P3180,1,0.0,48254.23,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4208362.0,16625.0
+TX247257,2024-09-21,CU11775,ST106,P3515,1,0.2,88.77,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3561736.0,9128.0
+TX241208,2024-06-28,CU10900,ONLINE,P3286,1,0.0,6044.69,Online,UPI,,,,,,,
+TX214412,2023-08-20,Unknown,ONLINE,P3384,2,0.3,1194.7,App,Card,,,,,,,
+TX253234,2024-11-05,CU10293,ONLINE,P3183,1,0.15,1262.95,App,Card,,,,,,,
+TX239569,2024-06-02,CU10510,ST108,P3321,1,0.2,3652.02,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,5388615.0,2484.0
+TX243722,2024-08-07,Unknown,ST114,P3014,1,0.15,1116.05,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,891052.0,16598.0
+TX231680,2024-02-14,CU11668,ONLINE,P3263,1,0.0,9104.8,App,UPI,,,,,,,
+TX255921,2024-11-23,CU10292,ST106,P3368,1,0.0,13830.3,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3014434.0,15518.0
+TX233370,2024-03-10,CU11557,ST110,P3209,1,0.0,151189.53,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,2372268.0,4648.0
+TX213934,,CU10178,ST108,P3081,1,0.2,463.8,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,,
+TX247981,2024-10-01,Unknown,ONLINE,P3386,1,0.2,5196.4,Online,Card,,,,,,,
+TX238046,2024-05-12,Unknown,ONLINE,P3115,1,0.0,18831.71,App,Card,,,,,,,
+TX206770,,Unknown,ONLINE,P3021,1,0.0,7624.75,App,UPI,,,,,,,
+TX229312,2024-01-13,CU12897,ST104,P3505,1,0.0,5963.12,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,5761171.0,9843.0
+TX225443,2023-12-02,CU11791,ONLINE,P3030,2,0.0,18044.88,Online,Card,,,,,,,
+TX255455,2024-11-19,CU12889,ONLINE,P3059,1,0.0,9071.73,Online,UPI,,,,,,,
+TX258170,2024-12-10,CU11444,ST107,P3195,2,0.2,1799.26,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2750380.0,14542.0
+TX224350,2023-11-23,Unknown,ST101,P3113,1,0.15,4090.55,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3997947.0,13141.0
+TX226369,2023-12-11,Unknown,ST114,P3048,2,0.0,2204.1,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1617838.0,18834.0
+TX245023,2024-08-24,CU11920,ONLINE,P3109,1,0.05,3998.74,Online,Card,,,,,,,
+TX251500,2024-10-24,Unknown,ONLINE,P3183,1,0.15,1262.95,Online,Wallet,,,,,,,
+TX235950,2024-04-13,CU10620,ST112,P3165,1,0.05,1780.15,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,4968168.0,9635.0
+TX236023,2024-04-14,CU11434,ST111,P3089,1,0.1,4649.27,Store,Wallet,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,3258494.0,22185.0
+TX205538,2023-03-28,CU10650,ST105,P3488,1,0.1,745.88,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2170534.0,2310.0
+TX224657,2023-11-25,CU11124,ST109,P3279,1,0.0,6233.64,Store,Net Banking,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,2491742.0,22336.0
+TX200850,,CU10439,ONLINE,P3227,2,0.0,9481.92,Online,Card,,,,,,,
+TX203417,2023-02-24,CU11966,ONLINE,P3400,1,0.0,2092.66,Online,UPI,,,,,,,
+TX200262,2023-01-04,CU10090,ST101,P3367,1,0.05,6931.86,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3207149.0,17182.0
+TX238389,,CU11489,ONLINE,P3304,1,0.0,7164.56,App,UPI,,,,,,,
+TX202626,2023-02-11,Unknown,ONLINE,P3027,2,0.0,35352.92,Online,Cash,,,,,,,
+TX260235,,Unknown,ONLINE,P3097,1,0.2,52039.33,Online,UPI,,,,,,,
+TX251251,2024-10-23,CU11331,ST108,P3027,2,0.25,26514.69,Store,Net Banking,NorthStar Delhi Express,Delhi,Delhi,Express,South,5308594.0,2760.0
+TX244939,2024-08-23,CU11737,ST108,P3136,1,0.05,5725.74,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,1514784.0,13634.0
+TX201296,2023-01-21,CU11574,ONLINE,P3247,1,0.0,38979.01,App,UPI,,,,,,,
+TX250026,2024-10-14,CU10225,ONLINE,P3241,1,0.25,6056.56,Online,Card,,,,,,,
+TX212682,2023-07-24,CU12747,ST114,P3402,1,0.0,9138.25,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4371146.0,19769.0
+TX210200,2023-06-10,CU12318,ONLINE,P3131,1,0.2,1607.69,App,Card,,,,,,,
+TX209713,2023-06-01,CU12783,ONLINE,P3350,1,0.05,8340.54,App,UPI,,,,,,,
+TX260098,2024-12-29,Unknown,ST114,P3108,1,0.15,9752.85,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,5515764.0,13440.0
+TX258133,2024-12-10,Unknown,ONLINE,P3350,1,0.2,7023.62,Online,Cash,,,,,,,
+TX218304,,CU11327,ST111,P3333,1,0.3,1872.95,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,,
+TX247450,2024-09-23,Unknown,ONLINE,P3069,1,0.0,8620.63,Online,Cash,,,,,,,
+TX235846,2024-04-12,CU12876,ONLINE,P3050,1,0.05,12872.78,App,Cash,,,,,,,
+TX212968,2023-07-29,CU11147,ONLINE,P3117,1,0.0,5172.48,App,UPI,,,,,,,
+TX205820,2023-04-01,CU10544,ST118,P3066,1,0.1,5280.62,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,2008351.0,10103.0
+TX203389,2023-02-23,Unknown,ST110,P3381,1,0.15,11667.28,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,1691102.0,8479.0
+TX211542,2023-07-04,Unknown,ST104,P3337,2,0.1,1863.5,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2461772.0,19796.0
+TX200213,2023-01-03,Unknown,ST107,P3126,1,0.0,103333.04,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2556810.0,6720.0
+TX224439,2023-11-24,CU11739,ST110,P3345,1,0.15,13291.96,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,5436022.0,11904.0
+TX240316,2024-06-15,CU12656,ONLINE,P3137,1,0.0,4813.92,Online,Wallet,,,,,,,
+TX227768,2023-12-25,CU12670,ST116,P3376,4,0.0,7862.44,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1237718.0,5192.0
+TX218340,2023-10-09,CU12146,ST108,P3055,2,0.15,4031.46,Store,Wallet,NorthStar Delhi Express,Delhi,Delhi,Express,South,3778736.0,17252.0
+TX225808,2023-12-05,CU11992,ST118,P3009,2,0.2,11456.85,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,2686893.0,12465.0
+TX238336,2024-05-16,CU12304,ST108,P3424,1,0.0,2050.42,Store,Cash,NorthStar Delhi Express,Delhi,Delhi,Express,South,6387476.0,24751.0
+TX233964,2024-03-17,Unknown,ST110,P3402,1,0.0,9138.25,Store,Wallet,NorthStar Kochi Express,Kochi,Kerala,Express,South,2372268.0,4648.0
+TX220035,2023-10-22,CU11311,ST101,P3017,4,0.05,303852.71,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5346878.0,14315.0
+TX218105,2023-10-07,Unknown,ST107,P3034,3,0.15,219156.92,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,5117953.0,24598.0
+TX229948,2024-01-21,CU10666,ONLINE,P3241,1,0.0,8075.41,Online,Card,,,,,,,
+TX253784,2024-11-09,Unknown,ONLINE,P3027,1,0.15,15024.99,Online,Card,,,,,,,
+TX204169,2023-03-07,Unknown,ST107,P3280,2,0.0,4506.34,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,875206.0,4826.0
+TX214014,,Unknown,ST112,P3101,1,0.0,3926.34,Store,Cash,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,,
+TX250535,2024-10-18,CU11631,ONLINE,P3024,1,0.0,4559.71,App,Cash,,,,,,,
+TX206384,2023-04-09,Unknown,ST109,P3342,1,0.0,1658.76,Store,Wallet,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,1056141.0,15162.0
+TX259238,2024-12-21,CU12003,ONLINE,P3127,1,0.05,1117.08,Online,Cash,,,,,,,
+TX203594,2023-02-26,CU10113,ST103,P3509,2,0.0,29290.04,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1787615.0,7196.0
+TX213898,2023-08-13,CU12592,ST106,P3072,2,0.0,54233.6,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,1012030.0,20531.0
+TX256688,2024-11-28,CU10273,ONLINE,P3021,1,0.0,7624.75,Online,UPI,,,,,,,
+TX236806,2024-04-25,Unknown,ST104,P3520,2,0.1,1159.56,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3061319.0,6182.0
+TX225502,2023-12-02,CU12898,ONLINE,P3004,2,0.2,22594.13,Online,UPI,,,,,,,
+TX228712,2024-01-05,CU11674,ONLINE,P3348,1,0.0,2386.86,App,UPI,,,,,,,
+TX218120,2023-10-07,CU11449,ONLINE,P3176,1,0.0,6522.03,App,UPI,,,,,,,
+TX203336,,Unknown,ST107,P3176,1,0.0,6522.03,Store,Wallet,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,,
+TX251617,2024-10-25,CU12217,ONLINE,P3344,1,0.15,11684.99,App,Card,,,,,,,
+TX255601,2024-11-20,CU11664,ONLINE,P3240,1,0.2,787.21,Online,Card,,,,,,,
+TX200274,2023-01-05,Unknown,ST113,P3242,1,0.15,1030.34,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2512555.0,24732.0
+TX204093,2023-03-05,Unknown,ST103,P3184,1,0.0,2447.92,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2712198.0,24723.0
+TX203076,2023-02-18,CU11460,ONLINE,P3152,1,0.0,5755.14,App,Cash,,,,,,,
+TX249237,2024-10-09,CU12694,ONLINE,P3175,1,0.0,18356.15,Online,Card,,,,,,,
+TX222544,,CU11611,ST116,P3095,2,0.05,261145.5,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,,
+TX240020,2024-06-10,CU10694,ST111,P3415,1,0.0,3754.06,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2312874.0,5111.0
+TX244125,2024-08-13,CU10645,ONLINE,P3323,1,0.0,2169.7,Online,Net Banking,,,,,,,
+TX231525,2024-02-12,CU10813,ST104,P3412,1,0.1,4633.87,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3508735.0,23642.0
+TX213185,,CU10050,ST107,P3448,1,0.2,2545.69,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,,
+TX222171,2023-11-07,CU11668,ST101,P3511,1,0.1,4400.89,Store,Cash,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3997947.0,13141.0
+TX243498,2024-08-04,CU12338,ONLINE,P3500,1,0.0,9600.15,Online,Wallet,,,,,,,
+TX243113,2024-07-29,CU10077,ONLINE,P3467,2,0.15,5092.84,App,UPI,,,,,,,
+TX227416,2023-12-22,CU11001,ONLINE,P3519,1,0.2,2068.14,Online,UPI,,,,,,,
+TX207162,2023-04-22,CU10400,ST114,P3271,1,0.0,1414.53,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,946758.0,24111.0
+TX221490,2023-11-02,CU10767,ONLINE,P3310,1,0.3,1361.12,App,Net Banking,,,,,,,
+TX245353,2024-08-28,CU12847,ST110,P3192,1,0.0,4463.21,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,2597539.0,8564.0
+TX204220,2023-03-07,CU11488,ST108,P3507,1,0.1,1949.09,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,3777333.0,8040.0
+TX230556,2024-01-29,CU12337,ONLINE,P3520,1,0.0,644.2,App,Cash,,,,,,,
+TX235827,2024-04-12,CU12483,ONLINE,P3181,1,0.2,64896.73,App,UPI,,,,,,,
+TX204789,2023-03-16,CU11346,ST102,P3277,1,0.15,209.38,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,4796619.0,13970.0
+TX235177,2024-04-03,CU10080,ONLINE,P3330,1,0.2,820.35,Online,UPI,,,,,,,
+TX254958,2024-11-16,CU11399,ST118,P3384,2,0.3,1194.7,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5097076.0,19949.0
+TX244365,2024-08-16,CU11404,ONLINE,P3515,3,0.0,332.88,App,UPI,,,,,,,
+TX203271,2023-02-21,CU11482,ONLINE,P3392,1,0.0,9913.91,App,UPI,,,,,,,
+TX211745,2023-07-07,CU10170,ONLINE,P3160,2,0.0,1458.88,Online,Card,,,,,,,
+TX211672,2023-07-06,CU12595,ONLINE,P3205,1,0.0,1782.69,App,Card,,,,,,,
+TX202211,2023-02-05,Unknown,ST117,P3387,1,0.3,711.02,Store,UPI,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5646369.0,2600.0
+TX225929,2023-12-07,Unknown,ST104,P3076,1,0.0,4679.13,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1607248.0,5167.0
+TX234510,2024-03-25,Unknown,ONLINE,P3319,1,0.0,15752.83,Online,UPI,,,,,,,
+TX211101,2023-06-26,Unknown,ST111,P3180,1,0.05,45841.52,Store,Card,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2377244.0,7937.0
+TX249683,2024-10-12,CU11589,ST117,P3207,1,0.3,4498.77,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,4869506.0,20683.0
+TX226943,2023-12-17,CU12853,ONLINE,P3515,1,0.0,110.96,Online,Card,,,,,,,
+TX250331,2024-10-16,CU12112,ONLINE,P3130,2,0.1,6777.13,Online,UPI,,,,,,,
+TX205976,2023-04-03,Unknown,ST113,P3002,4,0.1,31788.22,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,3420996.0,22509.0
+TX211070,2023-06-25,CU12086,ONLINE,P3129,1,0.15,3788.25,Online,Cash,,,,,,,
+TX218223,2023-10-08,CU12383,ST106,P3291,2,0.2,333951.95,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,1039418.0,7480.0
+TX204403,2023-03-11,Unknown,ONLINE,P3395,1,0.05,2439.3,App,Wallet,,,,,,,
+TX257642,2024-12-06,CU10668,ONLINE,P3501,2,0.0,706.44,Online,Net Banking,,,,,,,
+TX209196,2023-05-24,Unknown,ST106,P3315,3,0.0,8981.55,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5073777.0,21091.0
+TX250828,,Unknown,ST103,P3334,2,0.0,8004.38,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,,
+TX212784,2023-07-25,Unknown,ST110,P3467,2,0.3,4194.11,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,3040476.0,24616.0
+TX203883,2023-03-03,Unknown,ST113,P3101,1,0.3,2748.44,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2685589.0,13677.0
+TX222720,2023-11-11,CU10969,ST115,P3014,1,0.15,1116.05,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6304907.0,18266.0
+TX246768,2024-09-15,CU10672,ST112,P3476,1,0.15,1451.72,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5576375.0,7851.0
+TX240341,,CU11312,ST116,P3069,1,0.0,8620.63,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,,
+TX243229,2024-07-31,CU12676,ST108,P3235,2,0.0,25000.9,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,5772186.0,22873.0
+TX239773,2024-06-06,CU11046,ONLINE,P3161,2,0.0,1780.22,App,card,,,,,,,
+TX249398,2024-10-10,Unknown,ONLINE,P3332,2,0.0,13233.34,App,Card,,,,,,,
+TX240948,2024-06-24,CU12127,ONLINE,P3270,1,0.0,6828.66,App,Wallet,,,,,,,
+TX218484,2023-10-10,Unknown,ONLINE,P3141,1,0.15,3083.83,App,UPI,,,,,,,
+TX206559,2023-04-13,Unknown,ST111,P3311,1,0.0,29658.19,Store,Wallet,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,3216432.0,21566.0
+TX240978,2024-06-25,Unknown,ONLINE,P3415,2,0.05,7132.71,Online,UPI,,,,,,,
+TX241010,2024-06-25,CU10171,ST116,P3389,1,0.05,2028.1,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,5884224.0,19872.0
+TX245664,2024-09-01,CU11503,ONLINE,P3128,1,0.0,149645.21,App,Net Banking,,,,,,,
+TX225486,2023-12-02,Unknown,ONLINE,P3299,2,0.15,1586.75,Online,Net Banking,,,,,,,
+TX239988,2024-06-09,Unknown,ONLINE,P3438,2,0.05,2572.14,App,Cash,,,,,,,
+TX211800,2023-07-08,Unknown,ST102,P3171,2,0.1,3496.86,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3548669.0,4537.0
+TX235867,2024-04-13,CU10332,ST117,P3294,1,0.0,13305.21,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5495953.0,11122.0
+TX215666,2023-09-09,CU12408,ONLINE,P3005,1,0.0,14141.11,Online,UPI,,,,,,,
+TX211808,2023-07-08,CU12195,ST114,P3242,1,0.0,1212.16,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4371146.0,19769.0
+TX202360,2023-02-07,CU10322,ST108,P3117,1,0.3,3620.74,Store,Wallet,NorthStar Delhi Express,Delhi,Delhi,Express,South,2423934.0,13917.0
+TX200432,2023-01-07,CU10779,ST108,P3368,1,0.0,13830.3,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,4551900.0,18718.0
+TX215082,2023-08-31,Unknown,ONLINE,P3223,1,0.1,6466.88,Online,Net Banking,,,,,,,
+TX204616,,Unknown,ST103,P3156,1,0.2,1215.13,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,,
+TX207933,2023-05-04,Unknown,ST103,P3247,2,0.05,74060.12,Store,Cash,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,3031311.0,10144.0
+TX252521,2024-10-31,CU10819,ST116,P3469,1,0.05,5675.6,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1252507.0,24265.0
+TX215485,2023-09-06,CU11173,ONLINE,P3381,1,0.0,13726.21,App,Cash,,,,,,,
+TX255656,2024-11-21,CU12750,ONLINE,P3406,1,0.1,1402.06,Online,UPI,,,,,,,
+TX216823,2023-09-25,CU12682,ST103,P3076,4,0.1,16844.87,Store,Wallet,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,5007148.0,5834.0
+TX257477,2024-12-04,Unknown,ONLINE,P3303,2,0.1,12476.92,App,Card,,,,,,,
+TX231856,,CU12118,ONLINE,P3487,1,0.15,16699.1,App,Cash,,,,,,,
+TX252962,2024-11-03,CU11962,ONLINE,P3116,1,0.3,6351.77,Online,Cash,,,,,,,
+TX219280,2023-10-16,CU10915,ONLINE,P3070,1,0.15,2650.56,App,Wallet,,,,,,,
+TX208529,2023-05-13,CU11234,ONLINE,P3479,1,0.05,7281.45,Online,UPI,,,,,,,
+TX209448,2023-05-27,CU10095,ST113,P3280,2,0.0,4506.34,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,5099571.0,20611.0
+TX238628,2024-05-20,CU10754,ST105,P3123,1,0.1,4706.33,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4304873.0,20446.0
+TX242519,2024-07-20,CU11317,ONLINE,P3259,1,0.1,4855.96,App,Wallet,,,,,,,
+TX237936,2024-05-11,CU10494,ST118,P3277,1,0.1,221.7,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,6323409.0,2504.0
+TX238126,2024-05-13,CU11978,ST118,P3067,1,0.05,11774.39,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,6323409.0,2504.0
+TX208633,2023-05-14,CU12085,ONLINE,P3458,1,0.05,11683.01,Online,UPI,,,,,,,
+TX239918,2024-06-09,CU12664,ONLINE,P3274,1,0.0,9281.67,App,UPI,,,,,,,
+TX228011,2023-12-28,CU12618,ONLINE,P3157,1,0.0,76358.46,Online,Card,,,,,,,
+TX244557,2024-08-18,CU11157,ST109,P3385,1,0.0,7984.06,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,1022987.0,24996.0
+TX250881,2024-10-20,CU12411,ST118,P3434,1,0.0,2662.81,Store,Net Banking,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5955491.0,24834.0
+TX204058,2023-03-05,CU10766,ST113,P3500,1,0.0,9600.15,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2685589.0,13677.0
+TX235028,2024-03-31,Unknown,ONLINE,P3261,1,0.0,1918.23,App,Cash,,,,,,,
+TX251544,2024-10-25,Unknown,ST110,P3340,1,0.0,1015.08,Store,Net Banking,NorthStar Kochi Express,Kochi,Kerala,Express,South,3404511.0,16834.0
+TX229240,2024-01-12,CU10249,ST109,P3204,2,0.1,3521.7,Store,Cash,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5238861.0,12730.0
+TX207500,2023-04-27,CU11738,ONLINE,P3192,3,0.0,13389.63,App,Card,,,,,,,
+TX238751,2024-05-22,CU12814,ST105,P3204,1,0.4,1173.9,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4304873.0,20446.0
+TX232792,2024-03-02,CU12711,ST111,P3226,2,0.2,2125.76,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2704173.0,20682.0
+TX210950,2023-06-24,CU11147,ONLINE,P3193,1,0.15,1710.97,App,Wallet,,,,,,,
+TX225080,2023-11-29,CU10139,ST102,P3275,1,0.15,8315.99,Store,Net Banking,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,6385960.0,24429.0
+TX238963,2024-05-25,CU12963,ONLINE,P3407,1,0.05,59674.33,App,Card,,,,,,,
+TX212286,2023-07-17,CU10512,ONLINE,P3070,1,0.05,2962.39,App,Net Banking,,,,,,,
+TX209236,2023-05-24,CU11410,ST102,P3333,2,0.0,5351.28,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3089448.0,3408.0
+TX214091,,CU10772,ST116,P3420,1,0.0,1950.32,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,,
+TX225814,2023-12-05,CU10804,ONLINE,P3473,1,0.1,6817.06,App,Cash,,,,,,,
+TX218127,2023-10-07,CU11432,ONLINE,P3278,4,0.1,45625.97,Online,UPI,,,,,,,
+TX241006,2024-06-25,CU11845,ONLINE,P3304,1,0.0,7164.56,Online,Net Banking,,,,,,,
+TX217934,2023-10-06,CU12425,ST113,P3349,1,0.2,4431.33,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,6187357.0,14764.0
+TX252824,2024-11-02,CU10417,ONLINE,P3502,3,0.0,4267.08,App,Wallet,,,,,,,
+TX242754,,CU11513,ONLINE,P3470,1,0.1,4329.73,Online,Wallet,,,,,,,
+TX205836,2023-04-01,CU12069,ONLINE,P3490,1,0.0,1859.03,Online,UPI,,,,,,,
+TX242498,2024-07-19,Unknown,ONLINE,P3176,1,0.1,5869.83,App,Card,,,,,,,
+TX212424,2023-07-20,Unknown,ONLINE,P3220,1,0.05,1918.14,App,Cash,,,,,,,
+TX220428,2023-10-25,CU11595,ONLINE,P3444,1,0.2,3973.83,Online,UPI,,,,,,,
+TX238339,2024-05-16,CU12243,ST105,P3112,1,0.0,770.54,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4304873.0,20446.0
+TX200110,2023-01-02,CU11133,ST115,P3496,4,0.05,53356.94,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6046617.0,21227.0
+TX248412,2024-10-04,CU10347,ONLINE,P3366,1,0.0,9820.66,Online,Cash,,,,,,,
+TX206794,,CU10290,ONLINE,P3387,4,0.1,3656.7,App,Cash,,,,,,,
+TX217782,2023-10-05,Unknown,ONLINE,P3310,1,0.05,1847.24,Online,UPI,,,,,,,
+TX236969,2024-04-27,Unknown,ST104,P3484,1,0.3,17636.86,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,3061319.0,6182.0
+TX247932,2024-09-30,Unknown,ST106,P3459,1,0.2,49874.46,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3561736.0,9128.0
+TX243194,2024-07-31,Unknown,ST118,P3323,1,0.0,2169.7,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,4903140.0,5074.0
+TX253505,2024-11-07,Unknown,ST106,P3279,1,0.0,6233.64,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3014434.0,15518.0
+TX234353,2024-03-23,CU11430,ST114,P3328,1,0.0,3400.38,Store,Cash,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1394180.0,11442.0
+TX248197,2024-10-02,CU12430,ONLINE,P3270,1,0.0,6828.66,Online,UPI,,,,,,,
+TX245665,2024-09-01,Unknown,ST105,P3049,1,0.0,165923.72,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2526826.0,6574.0
+TX220960,2023-10-29,CU11324,ONLINE,P3057,1,0.1,12194.18,Online,Card,,,,,,,
+TX245245,2024-08-26,CU11076,ONLINE,P3169,2,0.15,8822.66,App,Net Banking,,,,,,,
+TX253050,2024-11-03,CU11615,ST102,P3501,1,0.2,282.58,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,2220090.0,20946.0
+TX240184,2024-06-13,CU12538,ONLINE,P3047,1,0.15,1713.29,App,Card,,,,,,,
+TX243710,2024-08-07,Unknown,ONLINE,P3502,1,0.0,1422.36,App,Cash,,,,,,,
+TX244935,2024-08-23,Unknown,ST110,P3392,1,0.05,9418.21,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,2597539.0,8564.0
+TX233843,2024-03-16,CU12131,ONLINE,P3199,1,0.0,6074.05,Online,UPI,,,,,,,
+TX255037,2024-11-16,CU12302,ONLINE,P3251,1,0.2,703.59,Online,Card,,,,,,,
+TX256798,2024-11-29,CU12726,ONLINE,P3445,1,0.15,4975.81,Online,Net Banking,,,,,,,
+TX244596,2024-08-18,CU10916,ST110,P3439,1,0.05,678.04,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,2597539.0,8564.0
+TX259030,2024-12-19,CU12599,ST114,P3012,2,0.0,39485.3,Store,Wallet,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,5515764.0,13440.0
+TX212646,,CU12952,ST109,P3360,3,0.4,2833.47,Store,card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,,
+TX230089,2024-01-24,Unknown,ONLINE,P3076,1,0.3,3275.39,Online,UPI,,,,,,,
+TX242109,,CU10137,ONLINE,P3496,2,0.0,28082.6,Online,Net Banking,,,,,,,
+TX237448,,CU11849,ST102,P3252,1,0.1,3067.21,Store,Cash,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,,
+TX203868,2023-03-02,CU10880,ST118,P3042,1,0.0,5072.18,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,2988675.0,6439.0
+TX234015,2024-03-18,CU10540,ONLINE,P3497,1,0.0,918.49,Online,UPI,,,,,,,
+TX205223,2023-03-23,CU11979,ST118,P3298,1,0.0,1901.44,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,2988675.0,6439.0
+TX220658,,Unknown,ONLINE,P3045,1,0.0,10099.19,Online,Net Banking,,,,,,,
+TX238496,2024-05-18,CU10787,ONLINE,P3075,1,0.1,71477.45,App,Cash,,,,,,,
+TX230815,2024-02-02,CU12922,ONLINE,P3234,1,0.05,1613.87,App,UPI,,,,,,,
+TX221671,2023-11-03,CU11144,ONLINE,P3012,2,0.0,39485.3,Online,UPI,,,,,,,
+TX229469,2024-01-15,CU10717,ST109,P3466,2,0.0,2427.04,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5238861.0,12730.0
+TX234466,2024-03-24,CU12876,ONLINE,P3452,2,0.15,464.49,App,UPI,,,,,,,
+TX249114,,CU11467,ONLINE,P3256,2,0.0,3989.52,Online,Card,,,,,,,
+TX201593,2023-01-26,Unknown,ONLINE,P3019,1,0.2,1404.38,Online,Cash,,,,,,,
+TX256122,2024-11-24,CU11993,ONLINE,P3257,1,0.15,874.57,Online,Wallet,,,,,,,
+TX254271,2024-11-11,CU12996,ONLINE,P3261,1,0.3,1342.76,Online,Wallet,,,,,,,
+TX231279,2024-02-09,CU10680,ONLINE,P3184,1,0.0,2447.92,App,Card,,,,,,,
+TX244886,2024-08-23,CU11748,ST104,P3288,1,0.0,9305.32,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,4254827.0,9758.0
+TX205875,2023-04-02,CU10286,ONLINE,P3168,1,0.0,136684.92,App,Card,,,,,,,
+TX210370,2023-06-12,CU11042,ONLINE,P3027,1,0.0,17676.46,App,UPI,,,,,,,
+TX203496,2023-02-25,CU12990,ST113,P3502,2,0.1,2560.25,Store,Wallet,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,1824845.0,9330.0
+TX216296,2023-09-17,CU12254,ST114,P3096,1,0.0,6238.33,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1417659.0,3179.0
+TX226984,2023-12-17,Unknown,ONLINE,P3285,1,0.0,1953.67,Online,UPI,,,,,,,
+TX240571,,Unknown,ST112,P3175,1,0.0,18356.15,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,,
+TX200891,2023-01-14,CU11928,ST113,P3203,2,0.1,9788.04,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2512555.0,24732.0
+TX214450,2023-08-21,Unknown,ST107,P3090,1,0.0,5368.76,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1177256.0,20306.0
+TX232164,2024-02-22,CU12085,ONLINE,P3237,1,0.0,5496.47,App,UPI,,,,,,,
+TX222347,2023-11-08,CU11508,ST114,P3107,1,0.35,3379.63,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4099869.0,24893.0
+TX201639,2023-01-27,CU12411,ONLINE,P3441,1,0.0,62702.52,App,Card,,,,,,,
+TX243898,2024-08-10,Unknown,ONLINE,P3407,1,0.1,56533.57,App,Card,,,,,,,
+TX243196,2024-07-31,CU12532,ONLINE,P3035,1,0.2,62510.6,Online,Cash,,,,,,,
+TX233836,2024-03-16,Unknown,ST115,P3170,2,0.0,11090.08,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6137239.0,4522.0
+TX259619,2024-12-24,Unknown,ST105,P3509,1,0.0,14645.02,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2609803.0,16160.0
+TX228958,2024-01-08,CU11240,ONLINE,P3021,1,0.0,7624.75,Online,Card,,,,,,,
+TX218383,2023-10-09,CU11350,ST107,P3195,1,0.15,955.86,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,5117953.0,24598.0
+TX212137,2023-07-15,CU11302,ST110,P3058,1,0.05,4130.14,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3040476.0,24616.0
+TX257097,2024-11-30,CU10434,ONLINE,P3465,4,0.2,13006.11,App,Card,,,,,,,
+TX229541,2024-01-16,Unknown,ST106,P3255,3,0.05,18902.06,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,2601908.0,5866.0
+TX217532,2023-10-03,CU11039,ST105,P3501,1,0.0,353.22,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,5099839.0,20196.0
+TX211879,2023-07-09,CU11533,ST112,P3176,1,0.2,5217.62,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,921790.0,21923.0
+TX256588,,CU11540,ST110,P3024,2,0.15,7751.51,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,,
+TX252669,2024-11-01,Unknown,ST102,P3100,1,0.0,4689.06,Store,Cash,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,2220090.0,20946.0
+TX238157,2024-05-13,CU11571,ST105,P3360,1,0.3,1101.9,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4304873.0,20446.0
+TX200709,,CU11156,ONLINE,P3326,1,0.0,4518.7,App,UPI,,,,,,,
+TX220916,2023-10-28,Unknown,ONLINE,P3504,1,0.25,1323.62,Online,UPI,,,,,,,
+TX214785,2023-08-26,Unknown,ST111,P3011,1,0.1,737.31,Store,Net Banking,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,4387539.0,5421.0
+TX209056,,CU12664,ST109,P3064,1,0.1,6567.32,Store,UPI,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,,
+TX242893,2024-07-26,CU10489,ONLINE,P3119,1,0.15,9129.16,App,Cash,,,,,,,
+TX206936,2023-04-19,Unknown,ONLINE,P3398,1,0.05,6742.72,App,Net Banking,,,,,,,
+TX214939,2023-08-28,Unknown,ONLINE,P3409,1,0.05,447.41,Online,UPI,,,,,,,
+TX257273,2024-12-02,CU12637,ST105,P3171,1,0.0,1942.7,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2609803.0,16160.0
+TX221697,2023-11-03,CU11890,ST113,P3424,1,0.0,2050.42,Store,Net Banking,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,4840785.0,13983.0
+TX240848,2024-06-23,CU11519,ONLINE,P3443,1,0.0,3778.21,App,Card,,,,,,,
+TX248936,,CU11733,ONLINE,P3217,2,0.15,32988.47,App,cash,,,,,,,
+TX220124,2023-10-22,CU12354,ST116,P3095,1,0.1,123700.5,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4614177.0,4523.0
+TX233957,2024-03-17,CU11853,ST108,P3209,3,0.15,385533.3,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,5259534.0,23753.0
+TX257945,2024-12-08,CU11023,ST101,P3240,2,0.05,1869.62,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3982098.0,23070.0
+TX207168,2023-04-22,Unknown,ST107,P3506,1,0.05,2221.06,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1409036.0,23764.0
+TX241648,2024-07-05,CU11973,ST110,P3206,1,0.15,49300.79,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,5342203.0,19913.0
+TX248324,2024-10-03,CU12973,ONLINE,P3414,1,0.1,1844.42,App,UPI,,,,,,,
+TX216142,2023-09-16,Unknown,ST106,P3340,-1,0.2,812.06,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,939239.0,21429.0
+TX204033,2023-03-05,CU12774,ST104,P3042,1,0.2,4057.74,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,6299575.0,5085.0
+TX239419,2024-05-31,CU10300,ONLINE,P3460,1,0.3,5835.49,App,UPI,,,,,,,
+TX246184,2024-09-08,Unknown,ONLINE,P3303,1,0.0,6931.62,Online,UPI,,,,,,,
+TX239993,2024-06-09,CU12311,ONLINE,P3232,1,0.1,8914.57,App,Wallet,,,,,,,
+TX250646,2024-10-18,Unknown,ST102,P3123,2,0.2,8366.82,Store,Net Banking,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,5619356.0,24621.0
+TX241414,2024-07-01,CU12548,ST111,P3483,1,0.4,1791.25,Store,Card,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2610159.0,6923.0
+TX223812,,Unknown,ONLINE,P3010,1,0.25,6910.16,Online,UPI,,,,,,,
+TX201176,,CU10203,ONLINE,P3037,1,0.2,47310.19,App,Cash,,,,,,,
+TX229155,2024-01-10,Unknown,ONLINE,P3059,1,0.0,9071.73,App,Card,,,,,,,
+TX254992,2024-11-16,CU12239,ONLINE,P3317,1,0.3,10944.09,App,Card,,,,,,,
+TX247288,2024-09-22,CU10967,ST110,P3261,2,0.2,3069.17,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,6357707.0,20143.0
+TX222580,2023-11-10,Unknown,ST116,P3090,1,0.1,4831.88,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX260193,2024-12-29,CU11511,ST118,P3054,2,0.05,4430.4,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,3582699.0,17743.0
+TX217809,2023-10-05,Unknown,ST118,P3226,2,0.2,2125.76,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,3353641.0,5469.0
+TX239775,2024-06-06,Unknown,ST106,P3299,1,0.0,933.38,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,4497280.0,16442.0
+TX209045,2023-05-21,CU10248,ST110,P3362,2,0.1,7737.19,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,6251791.0,21385.0
+TX242776,2024-07-24,CU11725,ONLINE,P3197,1,0.0,1657.71,Online,UPI,,,,,,,
+TX215218,2023-09-02,CU10851,ONLINE,P3161,1,0.2,712.09,App,UPI,,,,,,,
+TX214015,2023-08-15,Unknown,ONLINE,P3159,1,0.0,5506.28,Online,UPI,,,,,,,
+TX259753,2024-12-26,CU12307,ONLINE,P3212,2,0.0,73252.3,App,Card,,,,,,,
+TX225051,2023-11-28,CU11641,ST106,P3064,1,0.15,6202.47,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5539503.0,9182.0
+TX256711,2024-11-28,CU11329,ONLINE,P3324,2,0.15,7910.92,App,UPI,,,,,,,
+TX201499,2023-01-24,Unknown,ONLINE,P3462,1,0.0,15189.12,Online,Card,,,,,,,
+TX253214,,CU10769,ST106,P3305,1,0.1,9139.53,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,,
+TX258316,2024-12-12,CU10401,ST108,P3381,1,0.05,13039.9,Store,Net Banking,NorthStar Delhi Express,Delhi,Delhi,Express,South,3317322.0,16551.0
+TX226897,2023-12-16,CU12033,ONLINE,P3004,1,0.05,13415.26,Online,Card,,,,,,,
+TX245944,2024-09-04,CU10928,ST112,P3397,1,0.1,1052.36,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5576375.0,7851.0
+TX222857,2023-11-12,CU11894,ST103,P3417,1,0.25,792.37,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2171188.0,18811.0
+TX247566,2024-09-25,CU11160,ONLINE,P3392,1,0.0,9913.91,App,Net Banking,,,,,,,
+TX229647,2024-01-17,Unknown,ONLINE,P3144,1,0.15,12592.67,Online,Card,,,,,,,
+TX234213,2024-03-21,CU11750,ST110,P3320,2,0.15,36625.84,Store,Card,NorthStar Kochi Express,Kochi,Kerala,Express,South,2372268.0,4648.0
+TX224025,2023-11-20,CU12388,ST105,P3245,2,0.0,16135.72,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6187309.0,8566.0
+TX225067,2023-11-28,Unknown,ONLINE,P3465,1,0.25,3048.31,Online,UPI,,,,,,,
+TX229211,2024-01-11,CU11005,ONLINE,P3515,1,0.0,110.96,App,Cash,,,,,,,
+TX217137,2023-09-30,CU10916,ONLINE,P3185,1,0.0,13145.89,Online,UPI,,,,,,,
+TX230013,2024-01-22,Unknown,ONLINE,P3281,2,0.1,2159.37,App,UPI,,,,,,,
+TX239263,2024-05-29,CU10016,ST115,P3072,1,0.15,23049.28,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3807991.0,8160.0
+TX216452,2023-09-20,CU10432,ST113,P3260,1,0.3,54783.58,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2190159.0,7253.0
+TX210868,2023-06-22,CU12955,ONLINE,P3085,3,0.0,14450.79,App,Card,,,,,,,
+TX217299,2023-10-01,CU12852,ST101,P3260,1,0.0,78262.26,Store,Cash,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5346878.0,14315.0
+TX258513,2024-12-14,Unknown,ONLINE,P3323,1,0.0,2169.7,App,UPI,,,,,,,
+TX234598,2024-03-26,CU12095,ONLINE,P3415,1,0.15,5974.32,Online,Card,,,,,,,
+TX214075,2023-08-16,Unknown,ONLINE,P3517,1,0.0,7408.42,Online,Card,,,,,,,
+TX248192,2024-10-02,CU10422,ST107,P3121,1,0.25,3936.0,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1005257.0,14039.0
+TX235931,2024-04-13,Unknown,ST102,P3280,1,0.1,2027.85,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3079624.0,20316.0
+TX253622,2024-11-07,CU10313,ST117,P3166,1,0.15,2237.82,Store,Wallet,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,4446364.0,9579.0
+TX259984,2024-12-28,CU11530,ST102,P3349,2,0.05,10524.4,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,1954838.0,12450.0
+TX240560,2024-06-19,Unknown,ST113,P3402,1,0.0,9138.25,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2053595.0,12052.0
+TX227994,2023-12-28,CU10016,ONLINE,P3405,1,0.1,6009.98,App,Cash,,,,,,,
+TX201335,2023-01-22,Unknown,ONLINE,P3273,3,0.1,14406.58,Online,UPI,,,,,,,
+TX243595,2024-08-05,CU12651,ST115,P3045,1,0.05,9594.23,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4709599.0,10301.0
+TX241734,2024-07-06,Unknown,ST113,P3104,1,0.0,3519.98,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2490818.0,7351.0
+TX257053,2024-11-30,Unknown,ONLINE,P3110,1,0.15,3369.24,Online,Net Banking,,,,,,,
+TX230938,2024-02-04,Unknown,ST111,P3286,1,0.0,6044.69,Store,Card,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,877328.0,2021.0
+TX245390,2024-08-28,CU11204,ST115,P3103,1,0.2,93157.51,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,4709599.0,10301.0
+TX243913,2024-08-10,CU12417,ST103,P3266,1,0.0,10252.3,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2189349.0,16127.0
+TX249065,2024-10-08,CU10753,ST101,P3199,1,0.1,5466.65,Store,Wallet,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,2622947.0,22398.0
+TX251981,2024-10-27,CU10386,ST118,P3204,1,0.0,1956.5,Store,Card,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5955491.0,24834.0
+TX248342,2024-10-03,Unknown,ST106,P3127,1,0.15,999.49,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5644613.0,10189.0
+TX237193,2024-04-29,CU10662,ST101,P3299,1,0.0,933.38,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,1696568.0,16177.0
+TX243265,2024-08-01,CU10362,ST111,P3060,1,0.1,2535.49,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2209711.0,13250.0
+TX229132,2024-01-10,CU12461,ST101,P3130,2,0.1,6777.13,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,4069995.0,17538.0
+TX217870,,CU11400,ONLINE,P3205,2,0.25,2674.03,App,Wallet,,,,,,,
+TX228803,2024-01-06,CU12582,ONLINE,P3017,2,0.0,159922.48,Online,Net Banking,,,,,,,
+TX228449,,CU11242,ONLINE,P3243,1,0.2,781.23,Online,Cash,,,,,,,
+TX245299,2024-08-27,CU12475,ST101,P3311,3,0.1,80077.11,Store,Net Banking,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,1082523.0,7501.0
+TX250255,2024-10-15,Unknown,ONLINE,P3308,1,0.0,14576.04,App,upi,,,,,,,
+TX229421,2024-01-14,CU11857,ONLINE,P3346,1,0.05,1606.02,Online,UPI,,,,,,,
+TX257195,2024-12-01,CU10626,ONLINE,P3305,1,0.0,10155.03,App,Net Banking,,,,,,,
+TX201737,2023-01-29,CU10212,ONLINE,P3482,2,0.05,60063.08,App,UPI,,,,,,,
+TX246363,2024-09-10,CU12956,ONLINE,P3464,1,0.1,10213.24,App,Cash,,,,,,,
+TX250792,,CU10653,ST107,P3307,1,0.3,7008.13,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,,
+TX223176,2023-11-14,CU10751,ST116,P3175,2,0.2,29369.84,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX231027,2024-02-05,Unknown,ST111,P3330,2,0.0,2050.88,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,877328.0,2021.0
+TX223689,2023-11-18,CU10308,ST116,P3466,2,0.0,2427.04,Store,Cash,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX239747,2024-06-06,CU11125,ONLINE,P3349,1,0.0,5539.16,Online,UPI,,,,,,,
+TX231042,2024-02-05,CU11803,ONLINE,P3042,1,0.05,4818.57,Online,Cash,,,,,,,
+TX205254,2023-03-23,CU11948,ST116,P3203,1,0.0,5437.8,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,2112817.0,24934.0
+TX226595,2023-12-14,CU11251,ONLINE,P3293,1,0.05,2473.69,Online,Cash,,,,,,,
+TX238686,2024-05-21,CU10291,ST114,P3119,1,0.0,10740.19,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,4208362.0,16625.0
+TX205343,2023-03-25,CU11165,ST114,P3085,1,0.15,4094.39,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,5369680.0,23035.0
+TX249901,2024-10-13,CU10731,ST101,P3406,1,0.0,1557.84,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,2622947.0,22398.0
+TX250093,2024-10-14,CU12980,ONLINE,P3012,1,0.15,16781.25,Online,Net Banking,,,,,,,
+TX250197,2024-10-15,CU11615,ST102,P3340,1,0.1,913.57,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,5619356.0,24621.0
+TX245776,2024-09-02,CU10389,ONLINE,P3048,1,0.15,936.74,App,Cash,,,,,,,
+TX201609,,CU10369,ST115,P3255,1,0.05,6300.68,Store,Wallet,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX234498,2024-03-24,CU11832,ONLINE,P3321,1,0.0,4565.02,Online,Card,,,,,,,
+TX254390,2024-11-12,Unknown,ST106,P3144,1,0.5,7407.45,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3014434.0,15518.0
+TX233011,,CU12733,ST115,P3105,1,0.05,2684.77,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX233207,2024-03-07,Unknown,ST109,P3092,1,0.0,1140.12,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5411599.0,11705.0
+TX224906,2023-11-27,Unknown,ST112,P3469,1,0.0,5974.32,Store,Cash,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1023303.0,13593.0
+TX242551,2024-07-20,Unknown,ONLINE,P3223,1,0.1,6466.88,Online,UPI,,,,,,,
+TX251628,,CU12072,ST111,P3217,1,0.15,16494.23,Store,Wallet,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,,
+TX244034,2024-08-11,CU12245,ONLINE,P3452,3,0.0,819.69,App,UPI,,,,,,,
+TX235554,2024-04-07,CU10934,ONLINE,P3150,4,0.1,53269.45,Online,Card,,,,,,,
+TX204610,2023-03-13,Unknown,ST105,P3106,1,0.3,1616.4,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2170534.0,2310.0
+TX245813,2024-09-03,CU11412,ONLINE,P3164,1,0.1,117603.01,Online,UPI,,,,,,,
+TX211905,2023-07-10,CU11356,ST115,P3512,1,0.05,2852.01,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6071438.0,9315.0
+TX231533,2024-02-12,CU10121,ST101,P3280,1,0.1,2027.85,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,6298646.0,7463.0
+TX214787,2023-08-26,Unknown,ST112,P3353,1,0.0,390.31,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,4611387.0,24004.0
+TX258329,2024-12-12,CU10372,ST108,P3263,1,0.0,9104.8,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,3317322.0,16551.0
+TX227496,2023-12-23,CU12915,ST108,P3172,1,0.05,5381.92,Store,Net Banking,NorthStar Delhi Express,Delhi,Delhi,Express,South,5284871.0,4278.0
+TX232589,,CU11855,ONLINE,P3345,2,0.0,31275.2,Online,Card,,,,,,,
+TX205573,2023-03-28,CU12578,ST110,P3197,2,0.1,2983.88,Store,Cash,NorthStar Kochi Express,Kochi,Kerala,Express,South,4659903.0,14045.0
+TX210948,2023-06-24,Unknown,ONLINE,P3286,2,0.15,10275.97,App,Net Banking,,,,,,,
+TX236814,2024-04-25,CU10293,ONLINE,P3235,2,0.05,23750.85,Online,Net Banking,,,,,,,
+TX235814,,Unknown,ST113,P3103,1,0.0,116446.89,Store,Net Banking,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,,
+TX256490,2024-11-26,CU12055,ST117,P3282,1,0.35,1218.44,Store,Net Banking,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,4446364.0,9579.0
+TX243343,2024-08-02,CU12369,ONLINE,P3419,4,0.05,26180.56,Online,Card,,,,,,,
+TX218964,,CU10128,ONLINE,P3443,1,0.0,3778.21,App,UPI,,,,,,,
+TX232149,2024-02-21,Unknown,ONLINE,P3248,1,0.0,4514.04,Online,Wallet,,,,,,,
+TX215076,2023-08-30,CU12640,ONLINE,P3310,2,0.15,3305.58,App,Cash,,,,,,,
+TX235374,2024-04-06,Unknown,ST112,P3431,1,0.0,3227.78,Store,Net Banking,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,4968168.0,9635.0
+TX236132,2024-04-15,CU10320,ST110,P3222,1,0.0,94700.61,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,1475872.0,3118.0
+TX257286,2024-12-02,CU10758,ST105,P3370,1,0.0,135672.1,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2609803.0,16160.0
+TX223499,2023-11-17,CU12756,ONLINE,P3089,1,0.15,4390.98,Online,Card,,,,,,,
+TX252437,,CU10032,ONLINE,P3489,1,0.1,1003.81,Online,Wallet,,,,,,,
+TX215720,2023-09-09,CU10071,ST106,P3288,4,0.05,35360.22,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,939239.0,21429.0
+TX225751,2023-12-05,CU12493,ST102,P3204,1,0.0,1956.5,Store,UPI,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,5475300.0,18896.0
+TX255358,2024-11-19,Unknown,ONLINE,P3172,1,0.1,5098.66,Online,UPI,,,,,,,
+TX249488,2024-10-11,Unknown,ST116,P3474,3,0.15,69408.58,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1252507.0,24265.0
+TX226892,2023-12-16,CU10394,ST104,P3263,1,0.15,7739.08,Store,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1607248.0,5167.0
+TX229747,2024-01-19,CU11542,ST118,P3077,2,0.0,13507.12,Store,Cash,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,857984.0,2516.0
+TX257199,2024-12-01,CU10250,ONLINE,P3016,2,0.2,17342.42,Online,Cash,,,,,,,
+TX235444,2024-04-06,CU10804,ST105,P3219,1,0.1,107755.15,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3415732.0,11349.0
+TX216850,2023-09-26,CU12799,ONLINE,P3339,1,0.2,3991.97,App,UPI,,,,,,,
+TX206708,2023-04-15,CU10662,ONLINE,P3483,1,0.0,2985.41,App,UPI,,,,,,,
+TX202153,2023-02-04,CU11767,ONLINE,P3276,1,0.1,2179.13,App,Card,,,,,,,
+TX250610,2024-10-18,Unknown,ST111,P3051,1,0.15,7375.81,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,1835892.0,12420.0
+TX242837,2024-07-25,CU12684,ST113,P3132,1,0.0,129408.69,Store,Card,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2490818.0,7351.0
+TX231408,2024-02-10,Unknown,ST114,P3427,3,0.2,15429.02,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,2888768.0,8044.0
+TX206949,2023-04-19,CU11441,ST117,P3163,1,0.0,13298.43,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,5772719.0,2938.0
+TX223317,2023-11-15,CU12318,ST106,P3389,1,0.0,2134.84,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5539503.0,9182.0
+TX259861,2024-12-27,CU10707,ONLINE,P3393,1,0.05,2882.96,Online,UPI,,,,,,,
+TX208474,2023-05-12,CU10925,ST112,P3395,2,0.05,4878.59,Store,Net Banking,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,5087063.0,7459.0
+TX215209,2023-09-02,CU11325,ST103,P3083,1,0.05,104729.35,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,5007148.0,5834.0
+TX200431,2023-01-07,CU10761,ST113,P3382,1,0.0,3516.36,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2512555.0,24732.0
+TX211903,2023-07-10,CU10585,ONLINE,P3197,1,0.0,1657.71,App,UPI,,,,,,,
+TX259994,2024-12-28,CU12793,ST108,P3133,1,0.0,1480.62,Store,Cash,NorthStar Delhi Express,Delhi,Delhi,Express,South,3317322.0,16551.0
+TX208769,2023-05-17,CU10801,ONLINE,P3362,1,0.0,4298.44,App,UPI,,,,,,,
+TX228094,2023-12-29,Unknown,ST116,P3264,1,0.05,152381.83,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1237718.0,5192.0
+TX205967,2023-04-03,Unknown,ONLINE,P3248,1,0.15,3836.93,Online,UPI,,,,,,,
+TX225599,2023-12-03,Unknown,ST113,P3392,1,0.0,9913.91,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,2495442.0,2490.0
+TX251153,2024-10-22,CU12589,ONLINE,P3492,1,0.2,2882.97,App,Card,,,,,,,
+TX211377,2023-07-01,Unknown,ONLINE,P3177,2,0.0,6431.54,App,UPI,,,,,,,
+TX247286,2024-09-22,CU11449,ONLINE,P3209,1,0.0,151189.53,App,UPI,,,,,,,
+TX224203,2023-11-22,CU10672,ST116,P3465,1,0.15,3454.75,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6152438.0,12868.0
+TX227230,,CU12890,ONLINE,P3269,1,0.1,7849.09,Online,UPI,,,,,,,
+TX232728,2024-03-01,CU11509,ONLINE,P3192,1,0.0,4463.21,Online,UPI,,,,,,,
+TX256499,2024-11-26,CU11038,ONLINE,P3206,1,0.3,40600.65,Online,Card,,,,,,,
+TX234344,2024-03-23,CU10512,ST109,P3230,1,0.3,4917.66,Store,Card,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,5411599.0,11705.0
+TX255834,2024-11-22,CU11025,ST102,P3385,1,0.0,7984.06,Store,Wallet,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,2220090.0,20946.0
+TX235107,2024-04-02,CU12118,ST105,P3254,1,0.05,15900.63,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,3415732.0,11349.0
+TX215979,2023-09-13,CU11294,ST117,P3371,1,0.3,12892.73,Store,Card,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,6235173.0,3836.0
+TX252485,2024-10-31,CU12663,ST105,P3033,2,0.3,235128.84,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2790843.0,17975.0
+TX246630,,Unknown,ST101,P3041,2,0.0,12675.88,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,,
+TX259852,2024-12-26,CU10279,ONLINE,P3354,1,0.0,5634.05,Online,UPI,,,,,,,
+TX253928,2024-11-09,CU12760,ST116,P3085,1,0.3,3371.85,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,4170935.0,6653.0
+TX226411,2023-12-11,Unknown,ST115,P3448,1,0.1,2863.9,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2475113.0,16377.0
+TX251643,2024-10-25,CU12743,ST108,P3014,1,0.3,919.1,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,5308594.0,2760.0
+TX200087,2023-01-01,CU10136,ONLINE,P3226,1,0.0,1328.6,Online,Cash,,,,,,,
+TX239966,2024-06-09,CU10790,ONLINE,P3117,1,0.0,5172.48,Online,Card,,,,,,,
+TX228557,2024-01-03,CU11267,ST110,P3407,2,0.0,125630.16,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3464767.0,10393.0
+TX206753,2023-04-16,CU11567,ONLINE,P3422,1,0.0,961.63,Online,Net Banking,,,,,,,
+TX239654,2024-06-04,CU10527,ONLINE,P3494,1,0.15,6434.63,Online,UPI,,,,,,,
+TX216052,2023-09-14,Unknown,ST106,P3071,1,0.0,3065.66,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,939239.0,21429.0
+TX238390,2024-05-17,Unknown,ONLINE,P3349,1,0.0,5539.16,App,Card,,,,,,,
+TX255077,2024-11-17,CU10173,ONLINE,P3385,2,0.15,13572.9,App,UPI,,,,,,,
+TX205116,2023-03-21,Unknown,ST102,P3249,1,0.0,2184.34,Store,Net Banking,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,4796619.0,13970.0
+TX241739,2024-07-06,CU11307,ST104,P3395,3,0.1,6932.74,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2009843.0,22385.0
+TX214983,2023-08-29,CU11186,ONLINE,P3507,2,0.1,3898.19,Online,Cash,,,,,,,
+TX223343,2023-11-16,CU12654,ST112,P3386,3,0.1,17537.85,Store,UPI,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1023303.0,13593.0
+TX205032,2023-03-19,CU12181,ONLINE,P3198,1,0.0,126090.19,App,UPI,,,,,,,
+TX232242,,CU11960,ST103,P3167,2,0.05,257423.91,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,,
+TX234583,2024-03-26,Unknown,ONLINE,P3354,3,0.0,16902.15,App,Net Banking,,,,,,,
+TX227557,2023-12-23,CU10835,ONLINE,P3251,2,0.0,1758.98,App,UPI,,,,,,,
+TX260328,2024-12-31,CU12487,ST105,P3382,1,0.2,2813.09,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,2609803.0,16160.0
+TX246503,2024-09-12,CU10578,ST106,P3339,1,0.0,4989.96,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3561736.0,9128.0
+TX239300,2024-05-29,Unknown,ST106,P3466,1,0.0,1213.52,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,3563815.0,5324.0
+TX201220,2023-01-20,CU11163,ONLINE,P3202,3,0.4,2073.98,App,Card,,,,,,,
+TX222922,2023-11-12,CU10216,ONLINE,P3321,2,0.15,7760.53,App,UPI,,,,,,,
+TX213535,2023-08-08,Unknown,ST101,P3051,3,0.0,26032.26,Store,Card,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5421709.0,11174.0
+TX256816,2024-11-29,CU10202,ONLINE,P3346,3,0.15,4310.9,App,UPI,,,,,,,
+TX215192,2023-09-02,CU12250,ST105,P3053,1,0.0,5517.95,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6276937.0,24587.0
+TX201793,2023-01-29,CU11917,ONLINE,P3420,1,0.05,1852.8,App,Net Banking,,,,,,,
+TX249867,,CU10813,ONLINE,P3396,1,0.15,2322.58,App,UPI,,,,,,,
+TX203708,2023-02-28,CU12791,ONLINE,P3130,2,0.1,6777.13,App,Card,,,,,,,
+TX211600,2023-07-05,CU10962,ONLINE,P3383,3,0.0,2583.66,App,UPI,,,,,,,
+TX250901,2024-10-20,CU11160,ONLINE,P3098,1,0.2,14423.84,Online,Cash,,,,,,,
+TX206426,2023-04-10,Unknown,ST112,P3320,1,0.15,18312.92,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,2877693.0,6559.0
+TX243778,2024-08-08,CU12298,ONLINE,P3336,1,0.1,21069.38,App,UPI,,,,,,,
+TX207476,2023-04-27,CU11264,ST102,P3104,2,0.15,5983.97,Store,Net Banking,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3839607.0,14490.0
+TX222375,2023-11-08,CU10483,ONLINE,P3010,3,0.25,20730.47,Online,Card,,,,,,,
+TX213801,2023-08-12,Unknown,ST107,P3510,4,0.0,20282.08,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,1177256.0,20306.0
+TX244456,2024-08-17,CU12461,ST114,P3274,1,0.0,9281.67,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,891052.0,16598.0
+TX255228,2024-11-18,CU12158,ST105,P3335,2,0.0,61950.44,Store,UPI,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,1597690.0,9337.0
+TX231748,2024-02-15,CU12634,ONLINE,P3343,1,0.05,6147.99,Online,Net Banking,,,,,,,
+TX206861,2023-04-17,CU12515,ST103,P3094,1,0.05,1092.33,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1422801.0,6652.0
+TX250242,2024-10-15,CU11157,ONLINE,P3372,1,0.15,1730.48,Online,Net Banking,,,,,,,
+TX207321,2023-04-24,CU10105,ONLINE,P3186,2,0.05,7617.06,Online,UPI,,,,,,,
+TX200565,2023-01-08,Unknown,ONLINE,P3415,1,0.1,3378.65,App,Card,,,,,,,
+TX238744,2024-05-22,CU12948,ONLINE,P3294,1,0.05,12639.95,App,UPI,,,,,,,
+TX252065,2024-10-28,CU12054,ONLINE,P3241,3,0.1,21803.61,Online,Net Banking,,,,,,,
+TX241837,2024-07-08,CU10872,ST101,P3500,1,0.0,9600.15,Store,Cash,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,5206011.0,17570.0
+TX203462,2023-02-24,CU11520,ST107,P3146,1,0.05,3292.59,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,5793227.0,24910.0
+TX207003,2023-04-20,CU12157,ST113,P3445,4,0.2,18732.45,Store,Wallet,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,3420996.0,22509.0
+TX246653,,Unknown,ONLINE,P3073,1,0.05,5511.98,App,Card,,,,,,,
+TX222368,2023-11-08,Unknown,ST104,P3143,1,0.1,7552.36,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,5896002.0,10828.0
+TX251772,,CU11235,ONLINE,P3177,1,0.15,2733.4,Online,UPI,,,,,,,
+TX246273,,CU12653,ST107,P3033,1,0.1,151154.25,Store,Net Banking,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,,
+TX259928,2024-12-27,Unknown,ONLINE,P3507,1,0.05,2057.38,App,Card,,,,,,,
+TX212515,2023-07-22,CU11951,ONLINE,P3452,1,0.0,273.23,Online,UPI,,,,,,,
+TX235512,2024-04-07,CU11677,ONLINE,P3354,1,0.1,5070.65,Online,Card,,,,,,,
+TX228333,2023-12-31,CU11090,ST103,P3040,1,0.2,6094.16,Store,Net Banking,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,3612618.0,15355.0
+TX204348,2023-03-10,CU11875,ONLINE,P3448,2,0.0,6364.22,Online,UPI,,,,,,,
+TX203074,2023-02-18,CU10576,ST103,P3030,1,0.0,9022.44,Store,Card,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1787615.0,7196.0
+TX233004,2024-03-04,CU12025,ST117,P3130,4,0.05,14307.27,Store,Cash,NorthStar Pune Standard,Pune,Maharashtra,Standard,West,3165546.0,11792.0
+TX246722,2024-09-14,Unknown,ONLINE,P3414,1,0.2,1639.49,App,Net Banking,,,,,,,
+TX259064,2024-12-19,CU12023,ONLINE,P3469,2,0.15,10156.34,Online,Card,,,,,,,
+TX228080,,CU11596,ST103,P3228,1,0.0,5851.8,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,,
+TX243944,2024-08-10,CU11169,ST102,P3341,1,0.0,1112.93,Store,Wallet,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,3841983.0,24172.0
+TX222622,2023-11-10,Unknown,ST111,P3247,1,0.3,27285.31,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2409050.0,6760.0
+TX254707,2024-11-15,CU10353,ONLINE,P3244,1,0.0,2658.64,App,UPI,,,,,,,
+TX241664,2024-07-06,CU10483,ONLINE,P3418,2,0.0,3698.46,Online,UPI,,,,,,,
+TX225962,2023-12-07,CU10920,ONLINE,P3018,1,0.0,26398.2,Online,Net Banking,,,,,,,
+TX207557,2023-04-28,CU10498,ONLINE,P3325,3,0.15,16003.98,Online,UPI,,,,,,,
+TX233284,2024-03-09,CU10831,ST102,P3214,4,0.0,202813.2,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,4136184.0,3510.0
+TX258560,2024-12-14,CU11557,ONLINE,P3343,1,0.0,6471.57,Online,UPI,,,,,,,
+TX226888,2023-12-16,CU10200,ST116,P3348,2,0.15,4057.66,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,1237718.0,5192.0
+TX258766,2024-12-16,CU10039,ST106,P3158,1,0.0,79704.85,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5231753.0,11670.0
+TX234656,2024-03-27,CU12343,ONLINE,P3199,1,0.2,4859.24,Online,Cash,,,,,,,
+TX252086,2024-10-28,CU11800,ST113,P3283,3,0.25,19344.6,Store,UPI,NorthStar Bengaluru Flagship,Bengaluru,Karnataka,Flagship,South,5183133.0,21159.0
+TX208915,2023-05-19,CU11870,ONLINE,P3421,1,0.0,45426.3,Online,Card,,,,,,,
+TX248688,2024-10-05,Unknown,ST112,P3491,2,0.2,6215.49,Store,Card,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1612443.0,8864.0
+TX220284,2023-10-24,CU11011,ONLINE,P3246,1,0.3,3127.17,App,UPI,,,,,,,
+TX242422,2024-07-18,CU10517,ST104,P3440,3,0.0,25133.67,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2009843.0,22385.0
+TX205497,,Unknown,ST109,P3138,1,0.0,20517.24,Store,UPI,NorthStar Kolkata Standard,Kolkata,West Bengal,Standard,west,,
+TX218862,2023-10-14,CU10568,ONLINE,P3405,1,0.15,5676.1,Online,Cash,,,,,,,
+TX232791,2024-03-01,Unknown,ST112,P3126,2,0.0,206666.08,Store,Net Banking,NorthStar Coimbatore Express,Coimbatore,Tamil Nadu,Express,South,1319535.0,21453.0
+TX253473,2024-11-06,CU11189,ONLINE,P3069,1,0.15,7327.54,App,UPI,,,,,,,
+TX215950,2023-09-13,CU10232,ONLINE,P3196,1,0.0,7688.08,App,Card,,,,,,,
+TX227506,2023-12-23,Unknown,ONLINE,P3473,3,0.0,22723.53,Online,UPI,,,,,,,
+TX238567,2024-05-19,CU10034,ONLINE,P3484,1,0.15,21416.18,Online,UPI,,,,,,,
+TX251918,2024-10-27,CU11652,ONLINE,P3315,2,0.1,5388.93,App,Card,,,,,,,
+TX254264,2024-11-11,CU12591,ONLINE,P3200,1,0.05,197910.37,App,Card,,,,,,,
+TX228049,2023-12-28,CU11371,ST102,P3003,1,0.1,2730.67,STORE,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,5475300.0,18896.0
+TX259719,2024-12-25,CU12548,ONLINE,P3211,1,0.0,11719.34,Online,Card,,,,,,,
+TX212002,2023-07-12,Unknown,ONLINE,P3298,1,0.0,1901.44,Online,Cash,,,,,,,
+TX230773,2024-02-02,CU11959,ST101,P3304,1,0.0,7164.56,Store,Cash,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,6298646.0,7463.0
+TX207206,2023-04-22,CU10234,ST116,P3031,1,0.0,3422.78,Store,Wallet,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,3065100.0,9313.0
+TX251818,2024-10-26,Unknown,ST108,P3244,2,0.0,5317.28,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,5308594.0,2760.0
+TX223833,2023-11-19,CU12185,ONLINE,P3366,1,0.1,8838.59,App,UPI,,,,,,,
+TX243041,2024-07-28,Unknown,ST111,P3477,1,0.0,1466.66,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,2610159.0,6923.0
+TX223648,2023-11-18,CU12825,ONLINE,P3019,3,0.0,5266.44,App,Card,,,,,,,
+TX239583,,CU12357,ONLINE,P3032,4,0.05,5974.32,App,Net Banking,,,,,,,
+TX232776,2024-03-01,CU11382,ONLINE,P3065,1,0.0,1760.52,Online,UPI,,,,,,,
+TX235240,2024-04-04,CU11385,ST111,P3466,1,0.3,849.46,Store,UPI,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,3258494.0,22185.0
+TX210372,2023-06-12,CU11157,ST108,P3517,1,0.15,6297.16,Store,Card,NorthStar Delhi Express,Delhi,Delhi,Express,South,1757831.0,18780.0
+TX217855,2023-10-06,CU12573,ST107,P3147,1,0.0,6727.16,Store,UPI,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,5117953.0,24598.0
+TX238362,2024-05-17,CU10176,ST103,P3400,1,0.2,1674.13,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,6249786.0,3662.0
+TX244457,2024-08-17,CU10334,ST105,P3199,1,0.05,5770.35,Store,Card,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,823052.0,6742.0
+TX257876,2024-12-08,Unknown,ONLINE,P3263,3,0.05,25948.68,Online,Card,,,,,,,
+TX234459,2024-03-24,CU11745,ONLINE,P3442,2,0.05,10070.65,App,Net Banking,,,,,,,
+TX250872,2024-10-20,CU12015,ST104,P3060,3,0.1,7606.47,STORE,Net Banking,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,4607624.0,15693.0
+TX256905,2024-11-29,CU10348,ST115,P3440,1,0.15,7121.21,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,1986152.0,10108.0
+TX258828,2024-12-16,CU10681,ONLINE,P3427,1,0.05,6107.32,App,UPI,,,,,,,
+TX226054,2023-12-08,CU12211,ST114,P3180,1,0.0,48254.23,Store,Card,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,1617838.0,18834.0
+TX234045,2024-03-19,CU11358,ONLINE,P3325,1,0.05,5962.27,Online,Card,,,,,,,
+TX223232,,CU10636,ST105,P3374,1,0.2,97642.36,Store,Cash,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,,
+TX233246,2024-03-08,Unknown,ST101,P3076,2,0.0,9358.26,Store,UPI,NorthStar Chennai Flagship,Chennai,Tamil Nadu,Flagship,east,3110915.0,8836.0
+TX242718,2024-07-22,CU11922,ONLINE,P3002,2,0.2,14128.1,Online,UPI,,,,,,,
+TX223215,2023-11-14,CU12296,ST103,P3019,4,0.0,7021.92,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,2171188.0,18811.0
+TX200986,2023-01-16,Unknown,ONLINE,P3357,1,0.0,124209.82,App,UPI,,,,,,,
+TX248178,2024-10-02,CU10432,ONLINE,P3093,1,0.0,10005.49,App,Net Banking,,,,,,,
+TX212729,,Unknown,ST114,P3502,2,0.05,2702.48,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,North,,
+TX250173,2024-10-15,CU11800,ST118,P3518,1,0.1,5576.1,Store,UPI,NorthStar Delhi Standard,Delhi,Delhi,Standard,north,5955491.0,24834.0
+TX228774,2024-01-06,Unknown,ONLINE,P3494,1,0.0,7570.15,App,UPI,,,,,,,
+TX255596,2024-11-20,CU12869,ONLINE,P3065,2,0.3,2464.73,Online,Card,,,,,,,
+TX258914,2024-12-17,CU10637,ST102,P3040,1,0.0,7617.7,Store,Card,NorthStar Coimbatore Standard,Coimbatore,Tamil Nadu,Standard,South,1954838.0,12450.0
+TX205658,2023-03-30,CU12917,ONLINE,P3226,1,0.1,1195.74,App,UPI,,,,,,,
+TX209302,,Unknown,ST116,P3037,1,0.0,59137.74,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,,
+TX228534,2024-01-02,CU10011,ONLINE,P3428,2,0.05,918.44,Online,Wallet,,,,,,,
+TX211043,2023-06-25,CU10477,ONLINE,P3248,1,0.1,4062.64,App,UPI,,,,,,,
+TX222079,2023-11-06,Unknown,ST105,P3031,1,0.0,3422.78,Store,Net Banking,NorthStar Hyderabad Flagship,Hyderabad,Telangana,Flagship,South,6187309.0,8566.0
+TX241209,2024-06-28,CU11988,ONLINE,P3078,1,0.2,8460.28,App,UPI,,,,,,,
+TX256844,2024-11-29,Unknown,ONLINE,P3318,2,0.0,2676.48,App,Card,,,,,,,
+TX208197,2023-05-08,CU11940,ONLINE,P3069,1,0.0,8620.63,Online,Card,,,,,,,
+TX244163,2024-08-13,CU11361,ONLINE,P3230,2,0.05,13347.94,Online,UPI,,,,,,,
+TX250515,2024-10-17,CU11099,ONLINE,P3004,3,0.05,40245.79,Online,Card,,,,,,,
+TX255665,2024-11-21,Unknown,ONLINE,P3119,1,0.15,9129.16,Online,Card,,,,,,,
+TX237991,2024-05-11,CU12875,ST108,P3426,1,0.1,9282.96,Store,UPI,NorthStar Delhi Express,Delhi,Delhi,Express,South,6387476.0,24751.0
+TX209233,2023-05-24,CU10818,ST116,P3389,1,0.0,2134.84,Store,Net Banking,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,6085667.0,15305.0
+TX210103,2023-06-08,CU10853,ST104,P3143,1,0.15,7132.78,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,2369710.0,20322.0
+TX201558,2023-01-26,CU10041,ST107,P3443,1,0.2,3022.57,Store,Card,NorthStar Pune Flagship,Pune,Maharashtra,Flagship,East,2556810.0,6720.0
+TX206537,2023-04-12,CU10359,ST103,P3267,1,0.0,5308.91,Store,UPI,NorthStar Bengaluru Express,Bengaluru,Karnataka,Express,North,1422801.0,6652.0
+TX231295,2024-02-09,CU10633,ST110,P3035,1,0.0,78138.25,Store,UPI,NorthStar Kochi Express,Kochi,Kerala,Express,South,3277518.0,24432.0
+TX239229,2024-05-29,CU11846,ONLINE,P3392,1,0.0,9913.91,Online,Card,,,,,,,
+TX230361,2024-01-27,Unknown,ONLINE,P3358,1,0.0,89758.37,Online,Net Banking,,,,,,,
+TX237681,2024-05-06,CU12756,ST104,P3137,1,0.05,4573.22,Store,UPI,NorthStar Mysuru Standard,Mysuru,Karnataka,Standard,East,1377542.0,12694.0
+TX249705,2024-10-12,CU10511,ONLINE,P3431,1,0.0,3227.78,Online,Net Banking,,,,,,,
+TX203565,2023-02-26,CU10632,ST111,P3186,1,0.1,3608.08,Store,Net Banking,NorthStar Chennai Standard,Chennai,Tamil Nadu,Standard,South,5630504.0,21066.0
+TX236540,2024-04-21,CU11721,ONLINE,P3212,2,0.0,73252.3,Online,Cash,,,,,,,
+TX206918,2023-04-18,CU11537,ONLINE,P3190,2,0.3,351.11,App,UPI,,,,,,,
+TX212025,2023-07-12,CU12247,ONLINE,P3507,1,0.15,1840.81,Online,UPI,,,,,,,
+TX208892,,CU10729,ONLINE,P3236,1,0.0,2754.57,App,UPI,,,,,,,
+TX211477,,Unknown,ST116,P3253,2,0.0,3567.68,Store,UPI,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,West,,
+TX200278,2023-01-05,CU10503,ST106,P3405,1,0.0,6677.76,Store,Card,NorthStar Mumbai Standard,Mumbai,Maharashtra,Standard,South,5203790.0,20889.0
+TX215518,2023-09-06,CU10643,ONLINE,P3211,1,0.0,11719.34,App,Card,,,,,,,
