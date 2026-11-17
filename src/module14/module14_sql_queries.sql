@@ -2,7 +2,7 @@
 -- MODULE 14: SQL BUSINESS ANALYSIS
 -- NorthStar Retail Analytics
 
-USE test;
+USE northstar_retail;
 
 
 -- 1. Total Revenue by Region (JOIN)
